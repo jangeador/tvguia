@@ -176,7 +176,7 @@ http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I421.176955574.microsoft.com" tvg-name="TCML421_TCML421tcm_latin_america_panregionalCable" tvg-logo="tcm.png" group-title="Español",TCM
 http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
 #EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",bEINÑ Sports Español
-http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b4628000.m3u8
+http://rroso.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/rroso.m3u8
 #EXTINF:-1 tvg-id="SkyMX_I553.49699322.microsoft.com" tvg-name="FSALA553_FSALA553fsn_america_argentinaCable" tvg-logo="fox-sports-hd.png" group-title="Español",Fox Sports HD
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="CVMX_I506.230742554.microsoft.com" tvg-name="FOXS2506_FOXS2506fox_sports2Cable" tvg-logo="fox-sports-2-hd.png" group-title="Español",Fox Sports 2 HD
@@ -220,7 +220,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-id="Total_Vevo 3" tvg-name="Vevo_3" tvg-logo="vevo.png" tvg-shift="4" group-title="Ingles",Vevo Nashville
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0 tvg-id="Directv_I402.236869399.microsoft.com" tvg-name="UNIHD402_UNIHD402Univision_Network_HDNetwork" tvg-logo="univision.png" group-title="Español",Univisión HD
-rtmp://167.114.157.90/app/turbomaxs-channel
+http://iphone-streaming.ustream.tv/uhls/15379493/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-id="Directv_I407.28461071.microsoft.com" tvg-name="TELEP407_TELEP407Telemundo_Television_Network_(Pacific)Network" tvg-logo="telemundo.png" group-title="Español",Telemundo
 rtmp://167.114.159.156/app/chivasss69s-channel
 #EXTINF:-1 tvg-id="Directv_I407.28461071.microsoft.com" tvg-name="TELEP407_TELEP407Telemundo_Television_Network_(Pacific)Network" tvg-logo="telemundo.png" tvg-shift="4" group-title="Español",Telemundo
@@ -258,17 +258,17 @@ http://187.247.255.139/Apple/CNNEspanol2500.m3u8
 #EXTINF:0 tvg-id="Total_Fox Sports News HD" tvg-name="Fox_Sports_News_HD" tvg-logo="FoxSportsNews.png" group-title="Deportes",Fox Sports News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_1096_av-p.m3u8
 #EXTINF:0 tvg-id="SkyUK_I440.759963.microsoft.com" tvg-name="Sky_Sports_F1440_Sky_Sports_F1440" tvg-logo="SkySportsF1.png" group-title="Deportes",Sky Sports F1
-http://smarterlogix.ddns.net:8081/fi/f1/index.m3u8
+http://smarterapps.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I409.503.microsoft.com" tvg-name="Sky_Sports_1409_Sky_Sports_1409" tvg-logo="sky-sports-1.png" group-title="Deportes",Sky Sports 1
-http://smarterlogix.ddns.net:8081/st1/Sky1/index.m3u8
+http://smarterapps.ddns.net:8080/spTt10NEKe/sp0RT1eK/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I418.223160.microsoft.com" tvg-name="Sky_Sports_2418_Sky_Sports_2418" tvg-logo="sky-sports-2.png" group-title="Deportes",Sky Sports 2
-http://smarterlogix.ddns.net:8081/Sky2/Sky2/index.m3u8
+http://smarterapps.ddns.net:8080/spoRTYj2Rr2/NSsp2Two/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I434.397065.microsoft.com" tvg-name="Sky_Sports_3434_Sky_Sports_3434" tvg-logo="sky-sports-3.png" group-title="Deportes",Sky Sports 3
-http://smarterlogix.ddns.net:8081/Sky3/Sky3/index.m3u8
+http://smarterapps.ddns.net:8080/spRTEs3/sprT3RKe/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I404.759234.microsoft.com" tvg-name="Sky_Sports_HD_4404_Sky_Sports_HD_4404" tvg-logo="sky-sports-4.png" group-title="Deportes",Sky Sports 4
-http://smarterlogix.ddns.net:8081/Sky4/Sky4/index.m3u8
+http://smarterapps.ddns.net:8080/sp4T/sp4RtkkW/index.m3u8
 #EXTINF:0 tvg-id="Total_Sky Sports 5" tvg-name="Sky_Sports_5" tvg-logo="sky-sports-5.png" group-title="Deportes",Sky Sports 5
-http://smarterlogix.ddns.net:8081/Sky5/Sky5/index.m3u8
+http://smarterapps.ddns.net:8080/sTp5/spF5PkeY/index.m3u8
 #EXTINF:0 tvg-id="Directv_I610.176357987.microsoft.com" tvg-name="BIGTEN610_BIGTEN610Big_Ten_NetworkSports_Satellite" tvg-logo="btn.png" group-title="Deportes",Big 10 Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 #EXTINF:0 tvg-id="MC-CA_I410.28458181.microsoft.com" tvg-name="SN360410_SN360410Sportsnet_360Canadian_Satellite" tvg-logo="SN_360.png" group-title="Deportes",Sports Network 360
@@ -363,6 +363,10 @@ http://185.38.12.20:8088/hustler_hd/
 http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
 #EXTINF:0 tvg-logo="guiatv.png",[COLOR blue]Canales en prueba y en espera de EPG[/COLOR]
 http://guiatv.ga
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",El Chavo 24/7
+rtmp://50.7.78.138:443/live?GW2HZ9ZIbhruWzntdbmvAukrV3cbQ2Ka/live_mega_chavo
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal6Hn.png" group-title="Español",Anime en Español
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Aliento Visión
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",TVC
@@ -427,6 +431,32 @@ http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",DominicanYork - República Dominicana
 rtmp://stream.dominicanyork.tv:1935/dominicanyorktv/ playpath=DMYTV swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=129 live=true
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="TelesistemaHn.png" group-title="Español",Telesistema HD - Honduras
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal5Hn.png" group-title="Español",canal 5 HD - Honduras
+http://162.212.176.83:8080/canal5.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="telecadenaHn.png" group-title="Español",Telecadena HD - Honduras
+http://162.212.176.83:8080/telecadena.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="tenHn.png" group-title="Español",Canal TEN HD - Honduras
+http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8?
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal11Hn.png" group-title="Español",Canal 11 - Honduras
+http://162.212.176.83:8080/campustv.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="hchHn.png" group-title="Español",HCH - Honduras
+http://162.212.176.83:8080/hchtv.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="globotvHn.png" group-title="Español",Globo tv - Honduras
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal6Hn.png" group-title="Español",Canal 6 - Honduras
+http://162.212.176.83:8080/canal6.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="mayatvHn.png" group-title="Español",Maya tv - Honduras
+http://162.212.176.83:8080/mayatv.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="teleceibaHn.png" group-title="Español",Teleceiba - Honduras
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="teleprogresoHn.png" group-title="Español",Teleprogreso - Honduras
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="tododeportesHn.png" group-title="Español",Todo Deportes - Honduras
+http://162.212.176.83:8080/tododeportes.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="sulavisionHn.png" group-title="Español",Sulavision - Honduras
+http://162.212.176.83:8080/sulavision.m3u8
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CTNL - Puerto Rico
 rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://www.ministeriotv.com/embed/48/640/360/FALSE/true/false
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",WAPA - Puerto Rico
@@ -449,6 +479,8 @@ rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 rtmp://live.soltvperu.com/soltv/soltv
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",UCV Satelital - Perú
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:0 tvg-id="Argentina_15.cablevision" tvg-name="América_2" tvg-logo="america.png" group-title="Español",América TV - Perú
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Cañar Ecuador
 rtmp://ecuastreamhd.com:1935/canartv/canartv
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",UCSGHQ
@@ -457,8 +489,28 @@ rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
 rtmp://c5n.stweb.tv:1935/c5n playpath=live
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",La Red HD
 rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/&amp
-#EXTINF:0 tvg-id="Argentina_15.cablevision" tvg-name="América_2" tvg-logo="america.png" group-title="Español",América TV
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="a24.png" group-title="Español",A24 - Argentina
+http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="DeporTV.png" group-title="Deportes",DeporTV - Argentina
+rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="VIVARA.png" group-title="Musica",Vivra - Argentina
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Canal 26 HD.png" group-title="Español",Canal 26 HD - Argentina
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="America TV HD.png" group-title="Español",America TV HD - Argentina
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Telefe HD.png" group-title="Español",Telefe HD - Argentina
+http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="TV Publica HD.png" group-title="Español",TV Publica HD - Argentina
+http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Canal Trece HD.png" group-title="Español",Canal Trece HD - Argentina
+http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Magazine TV.png" group-title="Español",Magazine TV - Argentina
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Canal Rural.png" group-title="Español",Canal Rural - Argentina
+rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Q Musica.png" group-title="Musica",Q Musica - Argentina
+mms://streamqm.uigc.net/qmusica
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Argentina TN
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Mega TV HD
@@ -467,11 +519,15 @@ http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/
 http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Ultra Film
+http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/index.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Ultra Fiesta
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Antena 3
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",LaSexta
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="tvn.jpg" group-title="Español",TVN Chile HD
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="tvn1.png" group-title="Español",TVN Chile HD
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",TVC Deportes
 http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8

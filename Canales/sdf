@@ -103,7 +103,7 @@ http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I317.263005145.microsoft.com" tvg-name="TIIN317_TIIN317tiinLocal" tvg-logo="tiin.png" group-title="Español",TIIN
 http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="CVMX_I323.217704452.microsoft.com" tvg-name="TOONCST323_TOONCST323tooncast_latin_americaCable" tvg-logo="tooncast.png" tvg-shift="-2" group-title="Español",Tooncast
+#EXTINF:-1 tvg-id="CVMX_I323.217704452.microsoft.com" tvg-name="TOONCST323_TOONCST323tooncast_latin_americaCable" tvg-logo="tooncast.png" group-title="Español",Tooncast
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="MX-Total_I351.234875621.microsoft.com" tvg-name="DTHLAHD351_DTHLAHD351discovery_theater_hd_latin_ameCable" tvg-logo="hd-theater.png" group-title="Español",HD Theater
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
@@ -335,6 +335,8 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
 #EXTINF:0 tvg-logo="guiatv.png",[COLOR blue]Canales en prueba y en espera de EPG[/COLOR]
 http://guiatv.ga
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="hbo2.png" group-title="Español",HBO 2
+rtmp://199.19.95.95:443/flash playpath=20095?MTQzMDQ5MjU2MztiNDU2MmVkMWMxYTU0ZjE3NGU2Mjc1YjMyYmI5ODc0ZA== swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/QxOTc0MDdmNzhiZmY4NTA4YzI5Njg1/aGJvY2hhOjBhZDIyNjE2MmQ3ZmIyZWU3OTI0NmQ4MTMxYzJkZjJiOmUwZmUwMzM0Mm Conn=S:OK –live
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",El Chavo 24/7
 rtmp://50.7.78.138:443/live?GW2HZ9ZIbhruWzntdbmvAukrV3cbQ2Ka/live_mega_chavo
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal6Hn.png" group-title="Español",Anime en Español
@@ -449,9 +451,15 @@ rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CMD - Perú
+rtmp://46.165.220.232/live playpath=zeyucmn11?id=227418 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/ Conn=S:OK
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",TV Perú
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Willax - Perú
+rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",UCV Satelital - Perú
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:0 tvg-id="Argentina_15.cablevision" tvg-name="América_2" tvg-logo="america.png" group-title="Español",América TV - Perú
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="america.png" group-title="Español",América TV - Perú
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Cañar Ecuador
 rtmp://ecuastreamhd.com:1935/canartv/canartv

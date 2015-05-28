@@ -587,3 +587,37 @@ http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Fox Sports News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="h2.png" group-title="Español",H2
+rtmp://95.211.184.231/live playpath=tutvache2?id=219540 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/tutvache2/1/660/400 conn=S:OK --live
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Capital TV - Perú
+rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 13 Costa Rica
+rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 42 Costa Rica
+rtmp://k3.usastreams.com:1935/canal42/canal42
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 6 Costa Rica
+rtmp://k3.usastreams.com:1935/cana6/cana6
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 9 Costa Rica
+rtmp://k3.usastreams.com:1935/canal9/canal9
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Colosal TV Costa Rica
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",SMO TV Costa Rica
+rtmp://199.217.118.90:1935/smotv/stream
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Tele Uno TV Costa Rica
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",XPERTS 33 TV Costa Rica
+rtmp://k3.usastreams.com:1935/tv33/tv33
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Colosal TV Costa Rica
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+
+#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CB Televisión Costa Rica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?

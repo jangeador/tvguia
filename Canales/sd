@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SkyMX_I1107.198546159.microsoft.com" tvg-name="AZ24HD1107_AZ24HD1107azteca_24_hdIND_Affiliate" tvg-logo="azteca-7.png" group-title="Español",Azteca 7
+#EXTINF:-1 tvg-id="SkyMX_I1107.198546159.microsoft.com" tvg-name="AZ24HD1107_AZ24HD1107azteca_24_hdCable" tvg-logo="azteca-7.png" group-title="Español",Azteca 7
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="CVMX_I711.44563157.microsoft.com" tvg-name="CANAL_24711_CANAL_24711canal_24_horas_noticiasCable" tvg-logo="azteca-internacional.png" group-title="Español",Azteca Internacional
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
@@ -258,17 +258,17 @@ http://187.247.255.139/Apple/CNNEspanol2500.m3u8
 #EXTINF:0 tvg-id="Total_Fox Sports News HD" tvg-name="Fox_Sports_News_HD" tvg-logo="FoxSportsNews.png" group-title="Deportes",Fox Sports News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_1096_av-p.m3u8
 #EXTINF:0 tvg-id="SkyUK_I440.759963.microsoft.com" tvg-name="Sky_Sports_F1440_Sky_Sports_F1440" tvg-logo="SkySportsF1.png" group-title="Deportes",Sky Sports F1
-http://pappuyartangnakar.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
+http://smarterapps.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I409.503.microsoft.com" tvg-name="Sky_Sports_1409_Sky_Sports_1409" tvg-logo="sky-sports-1.png" group-title="Deportes",Sky Sports 1
-http://pappuyartangnakar.ddns.net:8080/spTt10NEKe/sp0KiRT1eK/index.m3u8
+http://smarterapps.ddns.net:8080/spTt10NEKe/sp0RT1eK/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I418.223160.microsoft.com" tvg-name="Sky_Sports_2418_Sky_Sports_2418" tvg-logo="sky-sports-2.png" group-title="Deportes",Sky Sports 2
-http://pappuyartangnakar.ddns.net:8080/spoRjjj2Rr2/NSsp2Two/index.m3u8
+http://smarterapps.ddns.net:8080/spoRTYj2Rr2/NSsp2Two/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I434.397065.microsoft.com" tvg-name="Sky_Sports_3434_Sky_Sports_3434" tvg-logo="sky-sports-3.png" group-title="Deportes",Sky Sports 3
-http://pappuyartangnakar.ddns.net:8080/spRTEs3/sprT3RKe/index.m3u8
+http://smarterapps.ddns.net:8080/spRTEs3/sprT3RKe/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I404.759234.microsoft.com" tvg-name="Sky_Sports_HD_4404_Sky_Sports_HD_4404" tvg-logo="sky-sports-4.png" group-title="Deportes",Sky Sports 4
-http://pappuyartangnakar.ddns.net:8080/sp4T/sp4RtkkW/index.m3u8
+http://smarterapps.ddns.net:8080/sp4T/sp4RtkkW/index.m3u8
 #EXTINF:0 tvg-id="Total_Sky Sports 5" tvg-name="Sky_Sports_5" tvg-logo="sky-sports-5.png" group-title="Deportes",Sky Sports 5
-http://pappuyartangnakar.ddns.net:8080/sTpRg5/spF5PkeY/index.m3u8
+http://smarterapps.ddns.net:8080/sTp5/spF5PkeY/index.m3u8
 #EXTINF:0 tvg-id="Directv_I610.176357987.microsoft.com" tvg-name="BIGTEN610_BIGTEN610Big_Ten_NetworkSports_Satellite" tvg-logo="btn.png" group-title="Deportes",Big 10 Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 #EXTINF:0 tvg-id="MC-CA_I410.28458181.microsoft.com" tvg-name="SN360410_SN360410Sportsnet_360Canadian_Satellite" tvg-logo="SN_360.png" group-title="Deportes",Sports Network 360
@@ -363,8 +363,72 @@ http://185.38.12.20:8088/hustler_hd/
 http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
 #EXTINF:0 tvg-logo="guiatv.png",[COLOR blue]Canales en prueba y en espera de EPG[/COLOR]
 http://guiatv.ga
-#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="hbo2.png" group-title="Español",HBO 2
-rtmp://199.19.95.95:443/flash playpath=20095?MTQzMDQ5MjU2MztiNDU2MmVkMWMxYTU0ZjE3NGU2Mjc1YjMyYmI5ODc0ZA== swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/QxOTc0MDdmNzhiZmY4NTA4YzI5Njg1/aGJvY2hhOjBhZDIyNjE2MmQ3ZmIyZWU3OTI0NmQ4MTMxYzJkZjJiOmUwZmUwMzM0Mm Conn=S:OK –live
+#EXTINF:0 tvg-id="Directv_I408.28457439.microsoft.com" tvg-name="UNIMWST408_UNIMWST408UniMas_Satellite_Feed_(Pacific)Satellite" tvg-logo="unimas.png" group-title="Español",Unimas
+rtmp://podi.hopper.pw:443/live/live_unimas12
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",UniMas
+http://66.90.93.18:1935/live/canal063.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Telemundo
+http://66.90.93.18:1935/live/canal008.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Univision
+http://66.90.93.18:1935/live/canal062.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="SkyMX_I460.44563571.microsoft.com" tvg-name="HBOFAM460_HBOFAM460hbo_family_latin_americaPremium" tvg-logo="hbo-family.png" group-title="Español",HBO Family
+http://192.99.4.70/hls/HBO_FAMILY.m3u8
+#EXTINF:0 tvg-id="SkyMX_I450.44563082.microsoft.com" tvg-name="OLE450_OLE450hbo_este_latin_americaPremium" tvg-logo="hbo-plus.png" group-title="Español",HBO Plus
+http://192.99.4.70/hls/HBO_PLUS.m3u8
+#EXTINF:0 tvg-id="CVMX_I632.237506166.microsoft.com" tvg-name="HBO2LA632_HBO2LA632hbo2_latin_americaPremium" tvg-logo="hbo2.png" group-title="Español",HBO 2
+http://192.99.4.70/hls/HBO2.m3u8
+#EXTINF:0 tvg-id="SkyMX_I462.270183066.microsoft.com" tvg-name="HBOSLA462_HBOSLA462hbo_signature_latin_americaCable" tvg-logo="hbo-signature.png" group-title="Español",HBO Signature
+http://192.99.4.70/hls/hbo_signature.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CityTV
+http://66.90.93.18:1935/live/canal035.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="mega-movies-1.png" group-title="Español",MEGA MOVIES
+rtmp://podi.hopper.pw:443/live/live_mega_movieshd
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Comedia Televisa
+rtmp://podi.hopper.pw:443/live/live_vecinobot
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",De Película Clásico
+http://66.90.93.18:1935/live/canal066.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Cinema Series
+rtmp://podi.hopper.pw:443/live/live_cinema_serieshd
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Peliculas Manía
+rtmp://podi.hopper.pw:443/live/live_peliculas_mania
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Two and a half men
+http://66.90.93.18:1935/live/canal027.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Peliculas
+http://66.90.93.18:1935/live/canal032.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="anime-pluz-tv.png" group-title="Español",Anime 24/7
+rtmp://podi.hopper.pw:443/live/live_rocioport
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Caricaturas 1
+http://66.90.93.18:1935/live/canal033.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Caricaturas 2
+http://66.90.93.18:1935/live/canal034.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Caricaturas 3
+http://66.90.93.18:1935/live/canal031.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="south-park.png" group-title="Español",South park
+http://66.90.93.18:1935/live/canal029.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Caricaturas 4
+http://66.90.93.18:1935/live/canal028.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Dragon Ball Z 24/7
+rtmp://podi.hopper.pw:443/live/live_mega_animes
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="futurama.png" group-title="Español",Futurama
+http://66.90.93.18:1935/live/canal026.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",La Familia Peluche
+http://bit.ly/1EBdvqz
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Formula 1 TV
+http://66.90.93.18:1935/live/canal070.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="SkyMX_I1547.222317895.microsoft.com" tvg-name="TDNHD1547_TDNHD1547televisa_deportes_hdCable" tvg-logo="tdn-mx.png" group-title="Español",TDN
+http://66.90.93.18:1935/live/canal009.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Directv_I455.274802949.microsoft.com" tvg-name="UDN455_UDN455Univision_Deportes_NetworkSatellite" tvg-logo="univision-tdn.png" group-title="Español",Univision Deportes Network
+http://66.90.93.18:1935/live/canal004.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Directv_I455.274802949.microsoft.com" tvg-name="UDN455_UDN455Univision_Deportes_NetworkSatellite" tvg-logo="univision-tdn.png" group-title="Español",Univision TDN
+http://107.170.171.220:7273/transcoGDL/utdn/playlist.m3u8
+#EXTINF:0 tvg-id="SkyMX_I571.294437559.microsoft.com" tvg-name="UFCNET571_UFCNET571ufc_networkLocal" tvg-logo="Albert Plash.png" group-title="Español",UFC NETWORK
+http://66.90.93.18:1935/live/canal086.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Azteca Deportes
+http://66.90.93.18:1935/live/canal095.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",BeiÑ Sports Español
+http://66.90.93.18:1935/live/canal088.stream/playlist.m3u?username=all&password=2015
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",El Chavo 24/7
 rtmp://50.7.78.138:443/live?GW2HZ9ZIbhruWzntdbmvAukrV3cbQ2Ka/live_mega_chavo
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal6Hn.png" group-title="Español",Anime en Español
@@ -589,35 +653,23 @@ http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="h2.png" group-title="Español",H2
 rtmp://95.211.184.231/live playpath=tutvache2?id=219540 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/tutvache2/1/660/400 conn=S:OK --live
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",27 TV Costa Rica
+http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 13 Costa Rica
+rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 42 Costa Rica
+rtmp://k3.usastreams.com:1935/canal42/canal42
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 6 Costa Rica
+rtmp://k3.usastreams.com:1935/cana6/cana6
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 9 Costa Rica
+rtmp://k3.usastreams.com:1935/canal9/canal9
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Colosal TV Costa Rica
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",SMO TV Costa Rica
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Tele Uno TV Costa Rica
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",XPERTS 33 TV Costa Rica
+rtmp://k3.usastreams.com:1935/tv33/tv33
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Capital TV - Perú
 rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 13 Costa Rica
-rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 42 Costa Rica
-rtmp://k3.usastreams.com:1935/canal42/canal42
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 6 Costa Rica
-rtmp://k3.usastreams.com:1935/cana6/cana6
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 9 Costa Rica
-rtmp://k3.usastreams.com:1935/canal9/canal9
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Colosal TV Costa Rica
-rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",SMO TV Costa Rica
-rtmp://199.217.118.90:1935/smotv/stream
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Tele Uno TV Costa Rica
-rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",XPERTS 33 TV Costa Rica
-rtmp://k3.usastreams.com:1935/tv33/tv33
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Colosal TV Costa Rica
-rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-
-#EXTINF:-1 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CB Televisión Costa Rica
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?

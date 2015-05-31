@@ -176,7 +176,7 @@ http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I421.176955574.microsoft.com" tvg-name="TCML421_TCML421tcm_latin_america_panregionalCable" tvg-logo="tcm.png" group-title="Español",TCM
 http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
 #EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",bEINÑ Sports Español
-http://rroso.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/rroso.m3u8
+http://rroso.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b1328000.m3u8
 #EXTINF:-1 tvg-id="SkyMX_I553.49699322.microsoft.com" tvg-name="FSALA553_FSALA553fsn_america_argentinaCable" tvg-logo="fox-sports-hd.png" group-title="Español",Fox Sports HD
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="CVMX_I506.230742554.microsoft.com" tvg-name="FOXS2506_FOXS2506fox_sports2Cable" tvg-logo="fox-sports-2-hd.png" group-title="Español",Fox Sports 2 HD
@@ -341,8 +341,12 @@ rtmp://podi.hopper.pw:443/live/live_unimas12
 http://66.90.93.18:1935/live/canal063.stream/playlist.m3u?username=all&password=2015
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Telemundo
 http://66.90.93.18:1935/live/canal008.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Telemundo
+http://iphone-streaming.ustream.tv/uhls/20487775/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Univision
 http://66.90.93.18:1935/live/canal062.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="SkyMX_I450.44563082.microsoft.com" tvg-name="OLE450_OLE450hbo_este_latin_americaPremium" tvg-logo="hbo.png" group-title="Español",HBO
+http://66.90.93.18:1935/live/canal041.stream/playlist.m3u?username=all&password=2015
 #EXTINF:0 tvg-id="SkyMX_I460.44563571.microsoft.com" tvg-name="HBOFAM460_HBOFAM460hbo_family_latin_americaPremium" tvg-logo="hbo-family.png" group-title="Español",HBO Family
 http://192.99.4.70/hls/HBO_FAMILY.m3u8
 #EXTINF:0 tvg-id="SkyMX_I450.44563082.microsoft.com" tvg-name="OLE450_OLE450hbo_este_latin_americaPremium" tvg-logo="hbo-plus.png" group-title="Español",HBO Plus

@@ -405,6 +405,10 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
 http://66.90.93.18:1935/live/canal095.stream/playlist.m3u?username=all&password=2015
 #EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",BeiÑ Sports Español
 http://66.90.93.18:1935/live/canal088.stream/playlist.m3u?username=all&password=2015
+
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Gol TV
+http://TVGuia@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
+
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",El Chavo 24/7
 rtmp://50.7.78.138:443/live?GW2HZ9ZIbhruWzntdbmvAukrV3cbQ2Ka/live_mega_chavo
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal6Hn.png" group-title="Español",Anime en Español

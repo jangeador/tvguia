@@ -731,3 +731,32 @@ http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CANAL 13 - Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",RCN HD
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CaracolTV
+http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Señal Colombia
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8?
+
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/live-500/playlist_b500000.m3u8?
+
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal UNO Colombia
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
+
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Zoom TV Colombia
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Señal Institucional
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
+
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal Tr3ce
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",RPC Panamá
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8

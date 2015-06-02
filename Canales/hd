@@ -258,17 +258,17 @@ http://187.247.255.139/Apple/CNNEspanol2500.m3u8
 #EXTINF:0 tvg-id="Total_Fox Sports News HD" tvg-name="Fox_Sports_News_HD" tvg-logo="FoxSportsNews.png" group-title="Deportes",Fox Sports News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_1096_av-p.m3u8
 #EXTINF:0 tvg-id="SkyUK_I440.759963.microsoft.com" tvg-name="Sky_Sports_F1440_Sky_Sports_F1440" tvg-logo="SkySportsF1.png" group-title="Deportes",Sky Sports F1
-http://smarterapps.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
+http://pappuyartangnakar.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I409.503.microsoft.com" tvg-name="Sky_Sports_1409_Sky_Sports_1409" tvg-logo="sky-sports-1.png" group-title="Deportes",Sky Sports 1
-http://smarterapps.ddns.net:8080/spTt10NEKe/sp0RT1eK/index.m3u8
+http://pappuyartangnakar.ddns.net:8080/sportK1/sp0K1/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I418.223160.microsoft.com" tvg-name="Sky_Sports_2418_Sky_Sports_2418" tvg-logo="sky-sports-2.png" group-title="Deportes",Sky Sports 2
-http://smarterapps.ddns.net:8080/spoRTYj2Rr2/NSsp2Two/index.m3u8
+http://pappuyartangnakar.ddns.net:8080/sporK2/NSsp2Two/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I434.397065.microsoft.com" tvg-name="Sky_Sports_3434_Sky_Sports_3434" tvg-logo="sky-sports-3.png" group-title="Deportes",Sky Sports 3
-http://smarterapps.ddns.net:8080/spRTEs3/sprT3RKe/index.m3u8
+http://pappuyartangnakar.ddns.net:8080/sportK3/sp0K3re/index.m3u8
 #EXTINF:0 tvg-id="SkyUK_I404.759234.microsoft.com" tvg-name="Sky_Sports_HD_4404_Sky_Sports_HD_4404" tvg-logo="sky-sports-4.png" group-title="Deportes",Sky Sports 4
-http://smarterapps.ddns.net:8080/sp4T/sp4RtkkW/index.m3u8
+http://pappuyartangnakar.ddns.net:8080/sp4TK/sp4Rtk/index.m3u8
 #EXTINF:0 tvg-id="Total_Sky Sports 5" tvg-name="Sky_Sports_5" tvg-logo="sky-sports-5.png" group-title="Deportes",Sky Sports 5
-http://smarterapps.ddns.net:8080/sTp5/spF5PkeY/index.m3u8
+http://pappuyartangnakar.ddns.net:8080/sTpRg5/spK5/index.m3u8
 #EXTINF:0 tvg-id="Directv_I610.176357987.microsoft.com" tvg-name="BIGTEN610_BIGTEN610Big_Ten_NetworkSports_Satellite" tvg-logo="btn.png" group-title="Deportes",Big 10 Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 #EXTINF:0 tvg-id="MC-CA_I410.28458181.microsoft.com" tvg-name="SN360410_SN360410Sportsnet_360Canadian_Satellite" tvg-logo="SN_360.png" group-title="Deportes",Sports Network 360

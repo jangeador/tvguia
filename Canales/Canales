@@ -461,3 +461,50 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Gol TV SD
 http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga_b1096000.m3u8
+#EXTINF:-1,Televisa HD 
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:-1,TVForoTV HD (Mexico) 
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+
+#EXTINF:-1,OnceTV HD (Mexico)
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1,UNOTV HD (Mexico)
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+
+#EXTINF:-1,MegaTV HD (Chile)
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+
+#EXTINF:-1,CNN HD (USA)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8 .
+
+#EXTINF:-1,MTV Rock
+http://92.50.181.6/tv/1279/index.m3u8
+
+#EXTINF:-1,VH1
+http://92.50.181.6/tv/1282/index.m3u8
+
+#EXTINF:-1, tvg-logo="mtvr.png",MTV ROCK 
+http://92.50.181.6/tv/1279/index.m3u8
+
+#EXTINF:-1, tvg-logo="mtvd.png",MTV DANCE 
+http://92.50.181.6/tv/1280/index.m3u8
+
+#EXTINF:-1, tvg-logo="vh1sh.png",VH1 SHUFFLE 
+http://92.50.181.6/tv/1281/index.m3u8
+
+#EXTINF:-1, tvg-logo="mtvm.png",MTV OPCION 2 
+http://92.50.181.6/tv/1284/index.m3u8
+
+#EXTINF:-1, tvg-logo="tigo.png",TIGO MUSIC
+http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8?
+
+#EXTINF:-1, tvg-logo="musica.png",Ibiza MUSICA
+http://www.djing.com/tv/ibiza.m3u8?
+
+#EXTINF:-1, tvg-logo="musica.png",Dance Floor MUSICA
+http://www.djing.com/tv/dancefloor.m3u8?
+
+#EXTINF:-1, tvg-logo="musica.png",Underground MUSICA
+http://www.djing.com/tv/underground.m3u8?

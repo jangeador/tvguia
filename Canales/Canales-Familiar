@@ -1,0 +1,440 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SkyMX_I217.294819232.microsoft.com" tvg-name="MFOXLA217_MFOXLA217mundo_fox_latin_americanCable" tvg-logo="mundofox.png" group-title="Español",Mundo Fox
+http://66.55.92.79:1935/app/ana69s-channel/.m3u8
+
+
+#EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",bEINÑ Sports Español HD
+http://tvguia.gam@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/tvguia.ga.m3u8
+#EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",bEINÑ Sports Español SD
+http://tvguia.ga@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b1328000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Total_Vevo 1" tvg-name="Vevo_1" tvg-logo="vevo.png" tvg-shift="4" group-title="Ingles",Vevo Hits
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-id="Total_Vevo 2" tvg-name="Vevo_2" tvg-logo="vevo.png" group-title="Ingles",Vevo Flow
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-id="Total_Vevo 3" tvg-name="Vevo_3" tvg-logo="vevo.png" tvg-shift="4" group-title="Ingles",Vevo Nashville
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 2 de Tele Antillas (República Dominicana)" tvg-name="Tele_Antillas" tvg-logo="teleantillas.png" tvg-shift="4" group-title="Español",Tele Antillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 37 de CDN (República Dominicana)" tvg-name="CDN_37" tvg-logo="cdn37.png" tvg-shift="4" group-title="Español",CDN 37
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 9 de Color Visión (República Dominicana)" tvg-name="Color_Visión" tvg-logo="color-vision.png" tvg-shift="4" group-title="Español",Color Visión
+http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal CDN-SportsMax" tvg-name="CDN-SportsMax" tvg-logo="CDN-SportsMax.png" tvg-shift="4" group-title="Español",CDN-SportsMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 tvg-id="Directv_I218.199680572.microsoft.com" tvg-name="GOLFHD218_GOLFHD218The_Golf_Channel_HDSports_Satellite" tvg-logo="golf.png" group-title="Ingles",Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.23 9.112.104
+#EXTINF:-1 tvg-id="Directv_I202.28456220.microsoft.com" tvg-name="CNN202_CNN202Cable_News_NetworkSatellite" tvg-logo="cnn.png" group-title="Ingles",CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-id="SkyUK_I517.93.microsoft.com" tvg-name="Sky_News517_Sky_News517" tvg-logo="sky-news.png" group-title="Ingles",Sky News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-id="SkyUK_I570.526214.microsoft.com" tvg-name="BBC_NEWS570_BBC_NEWS570BBC_News" tvg-logo="bbc-news.png" group-title="Ingles",BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-id="Total_I24News" tvg-name="I24News" tvg-logo="i24news.png" group-title="Ingles",I24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1 tvg-id="Directv_I397.28461002.microsoft.com" tvg-name="KABC397_KABC397ABC_Affiliate" tvg-logo="ABC_News.png" group-title="Ingles",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
+#EXTINF:-1 tvg-id="Directv_I393.28455445.microsoft.com" tvg-name="KNBC393_KNBC393NBC_Affiliate" tvg-logo="NBC_News.png" group-title="Ingles",NBC News
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:0 tvg-id="SkyUK_I440.759963.microsoft.com" tvg-name="Sky_Sports_F1440_Sky_Sports_F1440" tvg-logo="SkySportsF1.png" group-title="Deportes",Sky Sports F1
+http://pappuyartangnakar.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
+#EXTINF:0 tvg-id="SkyUK_I409.503.microsoft.com" tvg-name="Sky_Sports_1409_Sky_Sports_1409" tvg-logo="sky-sports-1.png" group-title="Deportes",Sky Sports 1
+http://pappuyartangnakar.ddns.net:8080/sportK1/sp0K1/index.m3u8
+#EXTINF:0 tvg-id="SkyUK_I418.223160.microsoft.com" tvg-name="Sky_Sports_2418_Sky_Sports_2418" tvg-logo="sky-sports-2.png" group-title="Deportes",Sky Sports 2
+http://pappuyartangnakar.ddns.net:8080/sporK2/NSsp2Two/index.m3u8
+#EXTINF:0 tvg-id="SkyUK_I434.397065.microsoft.com" tvg-name="Sky_Sports_3434_Sky_Sports_3434" tvg-logo="sky-sports-3.png" group-title="Deportes",Sky Sports 3
+http://pappuyartangnakar.ddns.net:8080/sportK3/sp0K3re/index.m3u8
+#EXTINF:0 tvg-id="SkyUK_I404.759234.microsoft.com" tvg-name="Sky_Sports_HD_4404_Sky_Sports_HD_4404" tvg-logo="sky-sports-4.png" group-title="Deportes",Sky Sports 4
+http://pappuyartangnakar.ddns.net:8080/sp4TK/sp4Rtk/index.m3u8
+#EXTINF:0 tvg-id="Total_Sky Sports 5" tvg-name="Sky_Sports_5" tvg-logo="sky-sports-5.png" group-title="Deportes",Sky Sports 5
+http://pappuyartangnakar.ddns.net:8080/sTpRg5/spK5/index.m3u8
+#EXTINF:0 tvg-id="Directv_I610.176357987.microsoft.com" tvg-name="BIGTEN610_BIGTEN610Big_Ten_NetworkSports_Satellite" tvg-logo="btn.png" group-title="Deportes",Big 10 Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:0 tvg-id="MC-CA_I410.28458181.microsoft.com" tvg-name="SN360410_SN360410Sportsnet_360Canadian_Satellite" tvg-logo="SN_360.png" group-title="Deportes",Sports Network 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000_ipad.m3u8
+#EXTINF:0 tvg-id="Total_Sports Time" tvg-name="Sports_Time" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 1HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:0 tvg-id="Total_Sports Time" tvg-name="Sports_Time" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 2HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:0 tvg-id="Total_Sports Time" tvg-name="Sports_Time" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 3HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:0 tvg-id="Total_Sports Time" tvg-name="Sports_Time" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 4HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:0 tvg-id="Total_Sports Time" tvg-name="Sports_Time" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 5HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:0 tvg-id="Total_Sports Time" tvg-name="Sports_Time" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 6HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:0 tvg-id="Total_Sports Time" tvg-name="Sports_Time" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 7HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:0 tvg-id="Total_bein-sports-1hd" tvg-name="Bein_Sports_1" tvg-logo="beinsport1.png" group-title="Deportes",Bein Sports 1
+http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
+#EXTINF:0 tvg-id="Total_bein-sports-2hd" tvg-name="Bein_Sports_2" tvg-logo="beinsport2.png" group-title="Deportes",Bein Sports 2
+http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
+#EXTINF:0 tvg-id="Total_bein-sports-3hd" tvg-name="Bein_Sports_3" tvg-logo="beinsport3.png" group-title="Deportes",Bein Sports 3
+http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
+#EXTINF:0 tvg-id="Total_FI Viasat Sport" tvg-name="Viasat_Sport" tvg-logo="Viasatsport.png" group-title="Deportes",Viasat Sport
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8
+#EXTINF:0 tvg-id="Total_RTÉ One" tvg-name="RTÉ_One" tvg-logo="rte-one.png" group-title="Ingles",RTÉ One
+http://212.250.46.35:4252/bysid/9601
+#EXTINF:0 tvg-id="Total_RTÉ Two" tvg-name="RTÉ_Two" tvg-logo="rte_two.png" group-title="Ingles",RTÉ Two
+http://212.250.46.35:4252/bysid/9602
+#EXTINF:0 tvg-id="Total_RTÉ Jr" tvg-name="RTÉ_Jr" tvg-logo="rtejr-logo.png" group-title="Ingles",RTÉ Jr
+http://212.250.46.35:4252/bysid/9606
+#EXTINF:0 tvg-id="SkyUK_I512.756209.microsoft.com" tvg-name="RT_English512_RT_English512" tvg-logo="rt.png" group-title="Ingles",RT
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8
+#EXTINF:0 tvg-id="SkyUK_I512.756209.microsoft.com" tvg-name="RT_English512_RT_English512" tvg-logo="rt 1.png" group-title="Ingles",RT 1
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_320p/blizznow.m3u8
+#EXTINF:0 tvg-id="Total_FOX Movies" tvg-name="FOX_Movies" tvg-logo="Fox_Moxie_Channel.png" tvg-shift="-2" group-title="Ingles",Fox Movies
+http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
+#EXTINF:0 tvg-id="SkyUK_I528.758176.microsoft.com" tvg-name="Nat_Geo_Wild_HD528_Nat_Geo_Wild_HD528National_Geographic_Wild_HD" tvg-logo="natgeo-wild.png" group-title="Ingles",Nat Geo Wild
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
+#EXTINF:0 tvg-id="Total_RT Documentary" tvg-name="RT_Documentary" tvg-logo="rt-documentary.png" group-title="Ingles",RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="Total_RT Espa\u00f1ol" tvg-name="RT_Español" tvg-logo="rt.png" group-title="Español",RT Español
+http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="MC-CA_I605.28458091.microsoft.com" tvg-name="FASHC605_FASHC605Fashion_TelevisionCanadian_Satellite" tvg-logo="fashion.png" group-title="Ingles",Fashion HD
+rtmp://95.67.8.43:1935/live/fashionhd
+#EXTINF:0 tvg-id="Total_Ebru" tvg-name="Ebru" tvg-logo="ebru.png" group-title="Ingles",Ebru
+http://204.107.26.252:1935/live/914.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="telemundo.png" group-title="Español",Telemundo
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Argentina_11.cablevision" tvg-name="Canal_12_Córdoba_(ARTEAR)" tvg-logo="canal12.png" tvg-shift="5" group-title="Español",Canal 12 Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:0 tvg-id="Total_ES Canal 24 horas" tvg-name="TVE_24_horas" tvg-logo="TVE_24H.png" group-title="Español",TVE 24 Horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-logo="guiatv.png",[COLOR blue]Canales en prueba y en espera de EPG[/COLOR]
+http://guiatv.ga
+#EXTINF:0 tvg-id="Directv_I408.28457439.microsoft.com" tvg-name="UNIMWST408_UNIMWST408UniMas_Satellite_Feed_(Pacific)Satellite" tvg-logo="unimas.png" group-title="Español",Unimas
+rtmp://podi.hopper.pw:443/live/live_unimas12
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",UniMas
+http://66.90.93.18:1935/live/canal063.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Telemundo
+http://66.90.93.18:1935/live/canal008.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Univision
+http://66.90.93.18:1935/live/canal062.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="SkyMX_I450.44563082.microsoft.com" tvg-name="OLE450_OLE450hbo_este_latin_americaPremium" tvg-logo="hbo.png" group-title="Español",HBO
+http://66.90.93.18:1935/live/canal041.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="SkyMX_I460.44563571.microsoft.com" tvg-name="HBOFAM460_HBOFAM460hbo_family_latin_americaPremium" tvg-logo="hbo-family.png" group-title="Español",HBO Family
+http://192.99.4.70/hls/HBO_FAMILY.m3u8
+#EXTINF:0 tvg-id="SkyMX_I450.44563082.microsoft.com" tvg-name="OLE450_OLE450hbo_este_latin_americaPremium" tvg-logo="hbo-plus.png" group-title="Español",HBO Plus
+http://192.99.4.70/hls/HBO_PLUS.m3u8
+#EXTINF:0 tvg-id="CVMX_I632.237506166.microsoft.com" tvg-name="HBO2LA632_HBO2LA632hbo2_latin_americaPremium" tvg-logo="hbo2.png" group-title="Español",HBO 2
+http://192.99.4.70/hls/HBO2.m3u8
+#EXTINF:0 tvg-id="SkyMX_I462.270183066.microsoft.com" tvg-name="HBOSLA462_HBOSLA462hbo_signature_latin_americaCable" tvg-logo="hbo-signature.png" group-title="Español",HBO Signature
+http://192.99.4.70/hls/hbo_signature.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CityTV
+http://66.90.93.18:1935/live/canal035.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="mega-movies-1.png" group-title="Español",MEGA MOVIES
+rtmp://podi.hopper.pw:443/live/live_mega_movieshd
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Comedia Televisa
+rtmp://podi.hopper.pw:443/live/live_vecinobot
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",De Película Clásico
+http://66.90.93.18:1935/live/canal066.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Cinema Series
+rtmp://podi.hopper.pw:443/live/live_cinema_serieshd
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Peliculas Manía
+rtmp://podi.hopper.pw:443/live/live_peliculas_mania
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Two and a half men
+http://66.90.93.18:1935/live/canal027.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Peliculas
+http://66.90.93.18:1935/live/canal032.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="anime-pluz-tv.png" group-title="Español",Anime 24/7
+rtmp://podi.hopper.pw:443/live/live_rocioport
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Caricaturas 1
+http://66.90.93.18:1935/live/canal033.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Caricaturas 2
+http://66.90.93.18:1935/live/canal034.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Caricaturas 3
+http://66.90.93.18:1935/live/canal031.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="south-park.png" group-title="Español",South park
+http://66.90.93.18:1935/live/canal029.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Caricaturas 4
+http://66.90.93.18:1935/live/canal028.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Dragon Ball Z 24/7
+rtmp://podi.hopper.pw:443/live/live_mega_animes
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="futurama.png" group-title="Español",Futurama
+http://66.90.93.18:1935/live/canal026.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",La Familia Peluche
+http://bit.ly/1EBdvqz
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Albert Plash.png" group-title="Español",Formula 1 TV
+http://66.90.93.18:1935/live/canal070.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="SkyMX_I1547.222317895.microsoft.com" tvg-name="TDNHD1547_TDNHD1547televisa_deportes_hdCable" tvg-logo="tdn-mx.png" group-title="Español",TDN
+http://66.90.93.18:1935/live/canal009.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Directv_I455.274802949.microsoft.com" tvg-name="UDN455_UDN455Univision_Deportes_NetworkSatellite" tvg-logo="univision-tdn.png" group-title="Español",Univision Deportes Network
+http://66.90.93.18:1935/live/canal004.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Directv_I455.274802949.microsoft.com" tvg-name="UDN455_UDN455Univision_Deportes_NetworkSatellite" tvg-logo="univision-tdn.png" group-title="Español",Univision TDN
+http://107.170.171.220:7273/transcoGDL/utdn/playlist.m3u8
+#EXTINF:0 tvg-id="SkyMX_I571.294437559.microsoft.com" tvg-name="UFCNET571_UFCNET571ufc_networkLocal" tvg-logo="Albert Plash.png" group-title="Español",UFC NETWORK
+http://66.90.93.18:1935/live/canal086.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Azteca Deportes
+http://66.90.93.18:1935/live/canal095.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",BeiÑ Sports Español
+http://66.90.93.18:1935/live/canal088.stream/playlist.m3u?username=all&password=2015
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Gol TV HD
+http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Gol TV SD
+http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga_b1096000.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",El Chavo 24/7
+rtmp://50.7.78.138:443/live?GW2HZ9ZIbhruWzntdbmvAukrV3cbQ2Ka/live_mega_chavo
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal6Hn.png" group-title="Español",Anime en Español
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Aliento Visión
+http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",EXA TV
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",TV Polanco
+http://186.155.200.118:1935/live/ColombiasuMusica/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Gold TV
+http://87.248.160.8/edge/smil:goldtv/chunklist_w1939353338_b2100000.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Music 1 HD
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",MTV Rock
+http://92.50.181.6/tv/1279/index.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",A-One Music Channel
+http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Chilevision HD - Chile
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",13 HD - Chile
+http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",AYSEN TV - Chile
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",BIO TV Concepcion - Chile
+http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",TV Senando - Chile
+http://senadortmp.janus.cl/senadotv/senado600/hasbahca.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",GOLTV - USA
+http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Uno TV
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 2 Obregón
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Azteca 7 Noroeste
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 7 Mazatlán
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Travel México
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/playlist_b900000.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Gala TV Cancun
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Antena Latina - República Dominicana
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Teleuniverso - República Dominicana
+http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Teleradio America - República Dominicana
+http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Certv - República Dominicana
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Telefuturo - República Dominicana
+rtmp://ss7.domint.net:1950/tf_str/ playpath=futu swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=139 live=true
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Telenord - República Dominicana
+http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Romana TV - República Dominicana
+http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Vegateve - República Dominicana
+http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",MUSA TV - República Dominicana
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",DominicanYork - República Dominicana
+rtmp://stream.dominicanyork.tv:1935/dominicanyorktv/ playpath=DMYTV swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=129 live=true
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="TelesistemaHn.png" group-title="Español",Telesistema HD - Honduras
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal5Hn.png" group-title="Español",canal 5 HD - Honduras
+http://162.212.176.83:8080/canal5.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="telecadenaHn.png" group-title="Español",Telecadena HD - Honduras
+http://162.212.176.83:8080/telecadena.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="tenHn.png" group-title="Español",Canal TEN HD - Honduras
+http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8?
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal11Hn.png" group-title="Español",Canal 11 - Honduras
+http://162.212.176.83:8080/campustv.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="hchHn.png" group-title="Español",HCH - Honduras
+http://162.212.176.83:8080/hchtv.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="globotvHn.png" group-title="Español",Globo tv - Honduras
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="canal6Hn.png" group-title="Español",Canal 6 - Honduras
+http://162.212.176.83:8080/canal6.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="mayatvHn.png" group-title="Español",Maya tv - Honduras
+http://162.212.176.83:8080/mayatv.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="teleceibaHn.png" group-title="Español",Teleceiba - Honduras
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="teleprogresoHn.png" group-title="Español",Teleprogreso - Honduras
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="tododeportesHn.png" group-title="Español",Todo Deportes - Honduras
+http://162.212.176.83:8080/tododeportes.stream.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="sulavisionHn.png" group-title="Español",Sulavision - Honduras
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CTNL - Puerto Rico
+rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://www.ministeriotv.com/embed/48/640/360/FALSE/true/false
+#EXTINF:-1 tvg-id="Total_Canal WAPA-TV" tvg-name="Canal_WAPA-TV" tvg-logo="guiatv-prueba.png" group-title="Español",WAPA - Puerto Rico
+rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",DW
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CB Televisión Costa Rica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canela TV Ecuador
+http://38.96.148.216:1935/live/canelatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="guiatv-prueba.png" tvg-shift="5" group-title="Español",RBC HD - Perú
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="guiatv-prueba.png" tvg-shift="5" group-title="Español",RBC Canal 11 - Perú
+rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Sol TV - Perú
+rtmp://live.soltvperu.com/soltv/soltv
+#EXTINF:0 tvg-id="Total_ATV" tvg-name="ATV" tvg-logo="guiatv-prueba.png" tvg-shift="5" group-title="Español",ATV Perú
+http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="Total_TV Perú" tvg-name="TV_Perú" tvg-logo="guiatv-prueba.png" tvg-shift="5" group-title="Español",TV Perú
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:0 tvg-id="Total_Willax" tvg-name="Willax" tvg-logo="guiatv-prueba.png" tvg-shift="5" group-title="Español",Willax - Perú
+rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Capital TV - Perú
+rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",UCV Satelital - Perú
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:0 tvg-id="Total_América TV" tvg-name="América_TV" tvg-logo="america.png" tvg-shift="5" group-title="Español",América TV - Perú
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Cañar Ecuador
+rtmp://ecuastreamhd.com:1935/canartv/canartv
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",UCSGHQ
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:0 tvg-logo="guiatv-prueba.png" tvg-shift="-3" group-title="Español",C5N Argentina
+rtmp://c5n.stweb.tv:1935/c5n playpath=live
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",La Red HD
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/&amp
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="a24.png" group-title="Español",A24 - Argentina
+http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="DeporTV.png" group-title="Deportes",DeporTV - Argentina
+rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="VIVARA.png" group-title="Musica",Vivra - Argentina
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Canal 26 HD.png" group-title="Español",Canal 26 HD - Argentina
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="America TV HD.png" group-title="Español",America TV HD - Argentina
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Telefe HD.png" group-title="Español",Telefe HD - Argentina
+http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="TV Publica HD.png" group-title="Español",TV Publica HD - Argentina
+http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Canal Trece HD.png" group-title="Español",Canal Trece HD - Argentina
+http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="Q Musica.png" group-title="Musica",Q Musica - Argentina
+mms://streamqm.uigc.net/qmusica
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Mega TV HD
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Antena 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",LaSexta
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="tvn1.png" group-title="Español",TVN Chile HD
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Gotica Music
+rtmp://149.11.34.6:1935/live/gotica.stream
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",MBC Action
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",MBC 2 HD
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",MBC Max
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",MBC Bollywood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Pac12 Arizona
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Pac12 Bay Area
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Pac12 National
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Pac12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Pac12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Pac12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Pac12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Big 10 Network
+http://xrxs.net/video/live-btn-1240.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",SportsNet360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Sportmax
+http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
+#EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",NBC Sports
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",27 TV Costa Rica
+http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 13 Costa Rica
+rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 42 Costa Rica
+rtmp://k3.usastreams.com:1935/canal42/canal42
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 6 Costa Rica
+rtmp://k3.usastreams.com:1935/cana6/cana6
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 9 Costa Rica
+rtmp://k3.usastreams.com:1935/canal9/canal9
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Colosal TV Costa Rica
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",SMO TV Costa Rica
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Tele Uno TV Costa Rica
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",XPERTS 33 TV Costa Rica
+rtmp://k3.usastreams.com:1935/tv33/tv33
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",TC Ecuador
+http://50.97.142.130:1935/hls2/amlst:10001_ios_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Telefe - (Argentina Creo)
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+#EXTINF:-1 tvg-id="ES-SAT_I193.754266.microsoft.com" tvg-name="Telecinco193_Telecinco193" tvg-logo="guiatv-prueba.png" group-title="Español",Telecinco - España
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1 tvg-id="ES-SAT_I196.755307.microsoft.com" tvg-name="Teledeporte196_Teledeporte196" tvg-logo="guiatv-prueba.png" group-title="Español",Teledeporte - España
+http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="ES-SAT_I95.752722.microsoft.com" tvg-name="ETB_Sat95_ETB_Sat95" tvg-logo="guiatv-prueba.png" group-title="Español",ETB - (Euskadi - España)
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1 tvg-id="Total_8tv" tvg-name="8tv" tvg-logo="guiatv-prueba.png" group-title="Español",8 TV - (Andalucia - España)
+http://iphone-andaluciatelevision.r...va/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 tvg-id="Total_Nova" tvg-name="Nova" tvg-logo="guiatv-prueba.png" group-title="Español",Nova - España
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
+#EXTINF:-1 tvg-id="Total_Galicia TV" tvg-name="Galicia_TV" tvg-logo="guiatv-prueba.png" group-title="Español",TV Galicia -España
+http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+#EXTINF:-1 tvg-id="Total_Aragón Televisión" tvg-name="Aragón_Televisión" tvg-logo="guiatv-prueba.png" group-title="Español",Aragón TV - España
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Libertad Digital TV - España
+http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_13tv" tvg-name="13tv" tvg-logo="guiatv-prueba.png" group-title="Español",13 TV - España (Emisión Web)
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1 tvg-id="ES-SAT_I34.752662.microsoft.com" tvg-name="CANAL_24_HORAS34_CANAL_24_HORAS34" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 24 Horas (Noticias)
+http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
+#EXTINF:-1 tvg-id="ES-SAT_I29.755205.microsoft.com" tvg-name="Canal_10_TV29_Canal_10_TV29" tvg-logo="guiatv-prueba.png" group-title="Español",Canal 10 - España
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal Costa - España
+http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Enlace Deportes 1 - España
+http://universalhdlive.marca.com/i/dr21_1@100203/index_6_av-p.m3u8
+#EXTINF:-1 tvg-id="Total_Euronews" tvg-name="Euronews" tvg-logo="guiatv-prueba.png" group-title="Español",Euronews - España
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Granada 7 TV - España
+http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Huelva TV - España
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Huesca TV - España
+rtmp://streaming2.radiohuesca.com/live/huescatv
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Información TV
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
+#EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png" group-title="Español",Kiss TV - España
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1 tvg-id="Total_Canal 13 de Nicaragua (Viva Nicaragua)" tvg-name="Canal_13_de_Nicaragua_(Viva_Nicaragua)" tvg-logo="guiatv-prueba.png" group-title="Español",CANAL 13 - Nicaragua
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",CaracolTV
+http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Señal Colombia
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8?
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/live-500/playlist_b500000.m3u8?
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Señal Institucional
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Canal Tr3ce
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",RPC Panamá
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8

@@ -461,6 +461,26 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Gol TV SD
 http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga_b1096000.m3u8
+
+
+#EXTINF:-1, Canal 2
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+#EXTINF:-1, Azteca 13 hd
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1, Azteca Noticias hd
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1, Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1, Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Canal Mexico
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1, Multimedios
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8 Conn=S:OK
+
+
+
+
 #EXTINF:-1,Televisa HD 
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
@@ -508,3 +528,23 @@ http://www.djing.com/tv/dancefloor.m3u8?
 
 #EXTINF:-1, tvg-logo="musica.png",Underground MUSICA
 http://www.djing.com/tv/underground.m3u8?
+
+#EXTINF:-1,Nat Geo
+http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
+
+#EXTINF:-1,History Channel
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Panamerica - Perú
+http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+
+#EXTINF:-1,Azteca Noticias (Mexico)
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1,LIVE UNIVERSAL MOVIES
+rtmp://podi.hopper.pw:443/live/live_universal_movies
+
+#EXTINF:-1, LIVE Mega Movies HD
+rtmp://50.7.78.138:443/live/live_megamovieshd
+
+#EXTINF:-1, Live Broad Movies
+rtmp://50.7.78.138:443/live/live_broadmovies

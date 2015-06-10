@@ -1,4 +1,7 @@
 #EXTM3U
+
+
+
 #EXTINF:-1 tvg-id="SkyMX_I217.294819232.microsoft.com" tvg-name="MFOXLA217_MFOXLA217mundo_fox_latin_americanCable" tvg-logo="mundofox.png" group-title="Español",Mundo Fox
 http://66.55.92.79:1935/app/ana69s-channel/.m3u8
 #EXTINF:-1 tvg-id="Total_Vevo 1" tvg-name="Vevo_1" tvg-logo="vevo.png" tvg-shift="4" group-title="Ingles",Vevo Hits
@@ -548,3 +551,24 @@ rtmp://50.7.78.138:443/live/live_megamovieshd
 
 #EXTINF:-1, Live Broad Movies
 rtmp://50.7.78.138:443/live/live_broadmovies
+
+#EXTINF:-1 group-title="PELICULAS",HBO2 LATINO
+http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
+ 
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="disneyxd.png" group-title="INFANTIL",DISNEY XD
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1,Travel TV - España
+rtmp://87.106.219.140/live/myStream_2
+
+#EXTINF:-1 group-title="INTERES",AZTECA 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:-1 group-title="INTERES",OCHO TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+
+#EXTINF:-1 group-title="INTERES",PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+
+#EXTINF:-1 group-title="INTERES",Ultra de aguascalientes
+http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8

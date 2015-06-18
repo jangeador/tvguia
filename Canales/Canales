@@ -222,7 +222,7 @@ rtmp://ecuastreamhd.com:1935/canartv/canartv
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",UCSGHQ
 rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
 #EXTINF:0 tvg-logo="guiatv-prueba.png" tvg-shift="-3" group-title="Español",C5N Argentina
-rtmp://c5n.stweb.tv:1935/c5n playpath=live
+rtmp://c5n.stweb.tv:1935/c5n/live
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",La Red HD
 rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/&amp
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="a24.png" group-title="Español",A24 - Argentina
@@ -303,18 +303,12 @@ rtmp://199.217.118.90:1935/smotv/stream
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",XPERTS 33 TV Costa Rica
 rtmp://k3.usastreams.com:1935/tv33/tv33
-#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",TC Ecuador
-http://50.97.142.130:1935/hls2/amlst:10001_ios_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Telefe - (Argentina Creo)
 http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
 #EXTINF:-1 tvg-id="ES-SAT_I193.754266.microsoft.com" tvg-name="Telecinco193_Telecinco193" tvg-logo="guiatv-prueba.png" group-title="Español",Telecinco - España
 http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
-#EXTINF:-1 tvg-id="ES-SAT_I196.755307.microsoft.com" tvg-name="Teledeporte196_Teledeporte196" tvg-logo="guiatv-prueba.png" group-title="Español",Teledeporte - España
-http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="ES-SAT_I95.752722.microsoft.com" tvg-name="ETB_Sat95_ETB_Sat95" tvg-logo="guiatv-prueba.png" group-title="Español",ETB - (Euskadi - España)
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
-#EXTINF:-1 tvg-id="Total_8tv" tvg-name="8tv" tvg-logo="guiatv-prueba.png" group-title="Español",8 TV - (Andalucia - España)
-http://iphone-andaluciatelevision.r...va/andaluciatelevision-iphone-multi/main.m3u8
 #EXTINF:-1 tvg-id="Total_Nova" tvg-name="Nova" tvg-logo="guiatv-prueba.png" group-title="Español",Nova - España
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
 #EXTINF:-1 tvg-id="Total_Galicia TV" tvg-name="Galicia_TV" tvg-logo="guiatv-prueba.png" group-title="Español",TV Galicia -España
@@ -359,10 +353,8 @@ http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
 http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",RPC Panamá
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",bEINÑ Sports Español HD
-http://tvguia.gam@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/tvguia.ga.m3u8
-#EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",bEINÑ Sports Español SD
-http://tvguia.ga@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b1328000.m3u8
+#EXTINF:0 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png" group-title="Español",bEINÑ Sports Español
+rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live/beinsport_spa_4
 #EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="telemundo.png" group-title="Español",Telemundo
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Español",Gol TV HD
@@ -438,7 +430,9 @@ http://www.djing.com/tv/dancefloor.m3u8?
 http://www.djing.com/tv/underground.m3u8?
 
 #EXTINF:-1,Nat Geo
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
+http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1,History Channel
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
@@ -477,3 +471,7 @@ http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
 
 #EXTINF:-1 group-title="INTERES",Ultra de aguascalientes
 http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
+#EXTINF:-1,EuroSport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,Azteca Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8

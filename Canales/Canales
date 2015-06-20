@@ -475,3 +475,39 @@ http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b15000
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1,Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+
+
+#EXTINF:-1,Telecaribe - Colombia
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1,Canal UNO - Colombia
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#
+
+#EXTINF:-1,Yes! - Colombia
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
+
+#EXTINF:-1,Televentas - Colombia
+http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_index.m3u8
+
+#EXTINF:-1,Teleantioquia - Colombia
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+
+#EXTINF:-1,Cable Noticias - Colombia
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+
+#EXTINF:-1,El Tiempo Televisión - Colombia
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+
+#EXTINF:-1,Caracol HD - Colombia
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Antena 3 Internacional - España
+http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
+
+#EXTINF:-1,TeleSur - Venezuela
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
+
+#EXTINF:-1,Canal Once Punta del Este - Uruguay
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
+
+#EXTINF:-1,TV5 Monde Latino - Francia
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8

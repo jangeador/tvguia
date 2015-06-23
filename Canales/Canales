@@ -84,34 +84,7 @@ http://204.107.26.252:1935/live/914.high.stream/playlist.m3u8
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
 #EXTINF:0 tvg-id="Total_ES Canal 24 horas" tvg-name="TVE_24_horas" tvg-logo="TVE_24H.png" group-title="Español",TVE 24 Horas
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Adulto",Playboy TV
-http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="MX-Total_I927.44563207.microsoft.com" tvg-name="PRIVATE927_PRIVATE927private_goldPay-per-view" tvg-logo="PRIVATE_TV.png" group-title="Adulto",Private
-http://185.38.12.20:8088/private/
-#EXTINF:-1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="Russian-Night.png" group-title="Adulto",Russian night
-http://185.38.12.20:8088/rusnoch/
-#EXTINF:-1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="Blue_Hustler.png" group-title="Adulto",Blue Hustler
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="olala.png" group-title="Adulto",Olala
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="XXL.png" group-title="Adulto",XXL
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="hdxxx.png" group-title="Adulto",HD XXX
-rtmp://149.3.141.210:1935/tv/ttv11
-#EXTINF:1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="xxx.png" group-title="Adulto",XXX
-rtmp://149.3.141.210:1935/tv/ttv12
-#EXTINF:-1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="adultxxx.png" group-title="Adulto",XXXLive 1
-http://cdn5.iviplanet.com:1935/VODLive2/_definst_/smil:vodlive2.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="secrects.png" group-title="Adulto",XXXLive 2
-http://cdn5.iviplanet.com:1935/VODLive3/_definst_/smil:vodlive3.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="adult1.png" group-title="Adulto",Adulto 1
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="adult2.png" group-title="Adulto",Adulto 2
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="hustler.png" group-title="Adulto",Hustler HD
-http://185.38.12.20:8088/hustler_hd/
-#EXTINF:0 tvg-id="Total_Adultos" tvg-name="Adultos" tvg-logo="adultxxx.png" group-title="Adulto",Passie XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+
 #EXTINF:0 tvg-logo="guiatv.png",[COLOR blue]Canales en prueba y en espera de EPG[/COLOR]
 http://guiatv.ga
 
@@ -475,7 +448,6 @@ http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b15000
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1,Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-
 
 #EXTINF:-1,Telecaribe - Colombia
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8

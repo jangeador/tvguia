@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CVMX_I711.44563157.microsoft.com" tvg-name="CANAL_24711_CANAL_24711canal_24_horas_noticiasCable" tvg-logo="azteca-internacional.png",Azteca Noticias
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Furtmpkal-f.akamaihd.net%2Fi%2F077zoqxzy_1%40130091%2Findex_3_av-p.m3u8
 #EXTINF:-1 tvg-id="SkyMX_I102.44563376.microsoft.com" tvg-name="XEW102_XEW102xew_02IND_Affiliate" tvg-logo="canal-2-HD.png",Canal 2
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3802
 #EXTINF:-1 tvg-id="SkyMX_I105.44563452.microsoft.com" tvg-name="XHGC105_XHGC105xhgc_05IND_Affiliate" tvg-logo="canal-5-HD.png",Canal 5
@@ -155,7 +157,7 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F465
 #EXTINF:-1 tvg-id="CVMX_I659.304916895.microsoft.com" tvg-name="FOXCOMM659_FOXCOMM659fox_comedy_mexicoCable" tvg-logo="fox-comedy.png",Fox Comedy
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F461
-#EXTINF:-1 tvg-logo="multipremier.png",MultiPremier
+#EXTINF:-1 tvg-id="Total_Canal Multipremier" tvg-name="Canal_Multipremier" tvg-logo="multipremier.png" tvg-shift="4",MultiPremier
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3293
 #EXTINF:-1 tvg-id="CVMX_I625.304916899.microsoft.com" tvg-name="PARAMNT625_PARAMNT625paramount_channelCable" tvg-logo="paramount.png",Paramount Channel
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F260
@@ -183,95 +185,89 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F481
 #EXTINF:-1 tvg-id="CVMX_I965.304916900.microsoft.com" tvg-name="DSUNHD965_DSUNHD965sundancetv_latin_america_hdCable" tvg-logo="Sundance.png",Sundance Channel
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1041
-#EXTINF:-1 tvg-id="SkyMX_I427.299678663.microsoft.com" tvg-name="FAMEX427_FAMEX427film_&_arts_mexicoCable",Film & Arts
+#EXTINF:-1 tvg-id="SkyMX_I427.299678663.microsoft.com" tvg-name="FAMEX427_FAMEX427film_&_arts_mexicoCable" tvg-logo="film-arts.png",Film & Arts
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1599
 #EXTINF:-1 tvg-id="SkyMX_I416.44563625.microsoft.com" tvg-name="CINEMEX416_CINEMEX416cine_canal_mexPremium" tvg-logo="cinecanal-(W).png",CineCanal
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2495
-#EXTINF:-1 tvg-logo="cinelatino.png",CineLatino
+#EXTINF:-1 tvg-id="Total_Canal Cinelatino" tvg-name="Canal_Cinelatino" tvg-logo="cinelatino.png" tvg-shift="4",CineLatino
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F477
-#EXTINF:-1 tvg-logo="cinema-dinamita.png",Cine Dinamita
+#EXTINF:-1 tvg-id="Total_Canal Cinema Dinamita" tvg-name="Canal_Cinema_Dinamita" tvg-logo="cinema-dinamita.png" tvg-shift="4",Cine Dinamita
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3465
-#EXTINF:-1,Planeta Futbol
+#EXTINF:-1 tvg-id="Total_Canal Planeta Futbol (Canal 516)" tvg-name="Canal_Planeta_Futbol_(Canal_516)" tvg-logo="planeta-futbol2.png" tvg-shift="4",Planeta Futbol
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
-#EXTINF:-1,Planeta Futbol English Soccer
+#EXTINF:-1 tvg-id="Total_Canal Planeta Futbol 9 HD (Canal 1524)" tvg-name="Canal_Planeta_Futbol_9_HD_(Canal_1524)" tvg-logo="planeta-futbol2.png" tvg-shift="4",Planeta Futbol English Soccer
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3469
-#EXTINF:-1,Univision TDN
+#EXTINF:-1 tvg-id="CVMX_I502.276122990.microsoft.com" tvg-name="UTDN502_UTDN502univision_tdnCable" tvg-logo="univision-tdn.png",Univision TDN
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1483
-#EXTINF:-1,El Financiero Bloomberg
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2823
-#EXTINF:-1,NTN 24
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1601
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/815.png" group-title="entertainments",Telemundo
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphone-streaming.ustream.tv%2FustreamVideo%2F20487775%2Fstreams%2Flive%2Fplaylist.m3u8
-#EXTINF:-1,K Music
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3467
-#EXTINF:-1,Concert Channel
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F479
-#EXTINF:-1,HTV
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F341
-#EXTINF:-1,Bandamax
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1467
-#EXTINF:-1,Regional Music
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4057
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/98.png" group-title="entertainments",Univision
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3800
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/88.png" group-title="entertainments",UniMas
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/113.png" group-title="information",Antena 3
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fantena3-aos1-apple-live.adaptive.level3.net%2Fapple%2Fantena3%2Fchannel01%2Fantena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/115.png" group-title="information",TVE Internacional America
+#EXTINF:-1 tvg-id="SkyMX_I547.219824024.microsoft.com" tvg-name="TD547_TD547televisa_deportesCable" tvg-logo="tdn-mx.png",TDN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
+#EXTINF:-1 tvg-id="Directv_I426.279311944.microsoft.com" tvg-name="BEINSES426_BEINSES426beIN_Sports_En_Espa¤olSatellite" tvg-logo="beins.png",BeinSports
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2527
+#EXTINF:-1 tvg-id="SkyMX_I571.294437559.microsoft.com" tvg-name="UFCNET571_UFCNET571ufc_networkLocal" tvg-logo="ufc-network.png" group-title="sports",UFC Network
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1047
+#EXTINF:-1 tvg-id="SkyMX_I548.241043380.microsoft.com" tvg-name="ESPN548_ESPN548span_espn_intlTranslated" tvg-logo="espn.png",ESPN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2487
+#EXTINF:-1 tvg-id="SkyMX_I551.252845610.microsoft.com" tvg-name="ESPN2M551_ESPN2M551espn_dos_mexicoCable" tvg-logo="espn-2.png",ESPN 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F301
+#EXTINF:-1 tvg-id="MX-Total_I520.284798038.microsoft.com" tvg-name="ESPN3N520_ESPN3N520espn_tres_north_418aCable" tvg-logo="espn-3-hd.png",ESPN 3
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3806
+#EXTINF:-1 tvg-id="SkyMX_I553.49699322.microsoft.com" tvg-name="FSALA553_FSALA553fsn_america_argentinaCable" tvg-logo="fox-sports-hd.png",Fox Sports
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2505
+#EXTINF:-1 tvg-id="CVMX_I506.230742554.microsoft.com" tvg-name="FOXS2506_FOXS2506fox_sports2Cable" tvg-logo="fox-sports-2-hd.png",Fox Sports 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F475
+#EXTINF:-1 tvg-id="SkyMX_I559.180917793.microsoft.com" tvg-name="FOXS3559_FOXS3559fox_sports3Cable" tvg-logo="foxsports3.png",Fox Sports 3
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F445
+#EXTINF:-1 tvg-id="SkyMX_I560.253623801.microsoft.com" tvg-name="GOLFLA560_GOLFLA560golf_channel_latinoamericaCable" tvg-logo="Golf-Channel.png",Golf Channel
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1489
+#EXTINF:-1 tvg-id="CVMX_I517.307530405.microsoft.com" tvg-name="F1LA517_F1LA517f¢rmula_1_latin_americaCable" tvg-logo="f1.png",F1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1695
+#EXTINF:-1 tvg-id="SkyMX_I627.44563062.microsoft.com" tvg-name="CNNESP627_CNNESP627cnn_espanol_mexicoCable" tvg-logo="cnn.png",CNN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1855
+#EXTINF:-1 tvg-id="SkyMX_I271.180185345.microsoft.com" tvg-name="TVEA2271_TVEA2271tve_america_iiCable" tvg-logo="tve.png" group-title="information",TVE America
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2123
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/117.png" group-title="entertainments",Pasiones
+#EXTINF:-1 tvg-id="SkyMX_I272.44563568.microsoft.com" tvg-name="ANTEN272_ANTEN272antena_3Cable" tvg-logo="antena-3.png" group-title="information",Antena 3
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fantena3-aos1-apple-live.adaptive.level3.net%2Fapple%2Fantena3%2Fchannel01%2Fantena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 tvg-id="SkyMX_I277.44563572.microsoft.com" tvg-name="TVINTL277_TVINTL277tv5_internationalCable" tvg-logo="tv5monde.png" group-title="information",TV 5 Monde
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Funeapple-i.akamaihd.net%2Fhls%2Flive%2F206412%2Fgrupoune_st11%40206412%2Fst11_index.m3u8
+#EXTINF:-1 tvg-id="Total_RT español" tvg-name="RT_español" tvg-logo="rt.png" tvg-shift="4",RT
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fodna.octoshape.net%2Ff3f5m2v4%2Fcds%2Fch2_720p%2Fmedia.m3u8
+#EXTINF:-1 tvg-id="SkyMX_I279.271488773.microsoft.com" tvg-name="DWLA279_DWLA279deutsche_welle_latin_americaCable" tvg-logo="dw.png" group-title="entertainments",DW
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.metafilegenerator.de%2FDWelle%2Ftv-latinoamerica%2Fios%2Fmaster.m3u8
+#EXTINF:-1 tvg-id="MX-Total_I635.285238621.microsoft.com" tvg-name="NUESTRA635_NUESTRA635nuestra_tele_noticias_24_horasCable" tvg-logo="ntn24.png",NTN 24
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1601
+#EXTINF:-1 tvg-id="CVMX_I715.44563133.microsoft.com" tvg-name="EURONEWS715_EURONEWS715euronewsCable" tvg-logo="euronews-logo.png" group-title="information",Euronews
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Fewns-hls-b-stream.hexaglobe.net%2Frtpeuronewslive%2Fes_vidan750_rtp.sdp
+#EXTINF:-1 tvg-id="SkyMX_I630.44563402.microsoft.com" tvg-name="BTV630_BTV630bloomberg_en_espanolCable" tvg-logo="bloomberg.png",Bloomberg
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2823
+#EXTINF:-1 tvg-id="Directv_I402.236869399.microsoft.com" tvg-name="UNIHD402_UNIHD402Univision_Network_HDNetwork" tvg-logo="univision.png" group-title="entertainments",Univision
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3800
+#EXTINF:-1 tvg-id="Directv_I408.28457439.microsoft.com" tvg-name="UNIMWST408_UNIMWST408UniMas_Satellite_Feed_(Pacific)Satellite" tvg-logo="unimas.png" group-title="entertainments",UniMas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
+#EXTINF:-1 tvg-id="Directv_I406.28456675.microsoft.com" tvg-name="TELE406_TELE406Telemundo_Television_NetworkNetwork" tvg-logo="telemundo.png" group-title="entertainments",Telemundo
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphone-streaming.ustream.tv%2FustreamVideo%2F20487775%2Fstreams%2Flive%2Fplaylist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal K - Music" tvg-name="Canal_K_-_Music" tvg-logo="k-music.png" tvg-shift="4",K Music
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3467
+#EXTINF:-1 tvg-id="MX-Total_I738.293190066.microsoft.com" tvg-name="CNCRT738_CNCRT738concert_channelCable" tvg-logo="concert-channel.png",Concert Channel
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F479
+#EXTINF:-1 tvg-id="MX-Total_I736.44563193.microsoft.com" tvg-name="HTV736_HTV736htv_hispano_televisionCable" tvg-logo="htv.png",HTV
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F341
+#EXTINF:-1 tvg-id="SkyMX_I711.44563393.microsoft.com" tvg-name="BANDAMAX711_BANDAMAX711bandamaxCable" tvg-logo="bandamax.png",Bandamax
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1467
+#EXTINF:-1 tvg-id="Directv_I444.205286423.microsoft.com" tvg-name="PASNUS444_PASNUS444Pasiones_TV_USSatellite" tvg-logo="pasiones.png" group-title="entertainments",Pasiones
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F295
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/881.png" group-title="entertainments",RCN Novelas
+#EXTINF:-1 tvg-logo="rcn-novelas.png" group-title="entertainments",RCN Novelas
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1493
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1117.png" group-title="information",TeleCentro
+#EXTINF:-1 tvg-logo="telecentro.png" group-title="information",TeleCentro
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2017
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1119.png" group-title="information",Caracol Internacional
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/937.png" group-title="information",TV Globo Internacional
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1593
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1171.png" group-title="information",TV 5 Monde
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Funeapple-i.akamaihd.net%2Fhls%2Flive%2F206412%2Fgrupoune_st11%40206412%2Fst11_index.m3u8
-#EXTINF:-1 tvg-logo="group-title" group-title="information",CB24
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fipointcablertmp.tulix.tv%3A1935%2Fcb24stream%2FmyStream.sdp
-#EXTINF:-1,ESPN
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2487
-#EXTINF:-1,ESPN 2
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F301
-#EXTINF:-1,ESPN 3
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3806
-#EXTINF:-1,Fox Sports
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2505
-#EXTINF:-1,Fox Sports 2
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F475
-#EXTINF:-1,Fox Sports 3
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F445
-#EXTINF:-1,Golf Channel
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1489
-#EXTINF:-1,MTV
+#EXTINF:-1 tvg-id="SkyMX_I701.44563569.microsoft.com" tvg-name="MTVL701_MTVL701mtv_latino_norteCable" tvg-logo="mtv.png",MTV
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2491
-#EXTINF:-1,MTV Hits
+#EXTINF:-1 tvg-id="SkyMX_I702.235634313.microsoft.com" tvg-name="MTVHTLA702_MTVHTLA702mtv_hits_latin_americaCable" tvg-logo="mtv-hits.png",MTV Hits
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1495
-#EXTINF:-1,VH1 Classic
+#EXTINF:-1 tvg-id="SkyMX_I703.217704455.microsoft.com" tvg-name="VH1CL703_VH1CL703vh1_classicCable" tvg-logo="vh1-classisc.png",VH1 Classic
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F415
-#EXTINF:-1,VH1
+#EXTINF:-1 tvg-id="SkyMX_I706.180185344.microsoft.com" tvg-name="VH1706_VH1706vh1_latin_americaCable" tvg-logo="vh1-hd.png",VH1
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F483
-#EXTINF:-1,Azteca Noticias
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Furtmpkal-f.akamaihd.net%2Fi%2F077zoqxzy_1%40130091%2Findex_3_av-p.m3u8
-#EXTINF:-1,BeinSports
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2527
-#EXTINF:-1,F1
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1695
-#EXTINF:-1,TDN
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
-#EXTINF:-1,CNN
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1855
-#EXTINF:-1,RT
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fodna.octoshape.net%2Ff3f5m2v4%2Fcds%2Fch2_720p%2Fmedia.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1095.png" group-title="entertainments",DW
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.metafilegenerator.de%2FDWelle%2Ftv-latinoamerica%2Fios%2Fmaster.m3u8
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/625.png" group-title="sports",UFC Network
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1047
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1459.png" group-title="information",Euronews
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Fewns-hls-b-stream.hexaglobe.net%2Frtpeuronewslive%2Fes_vidan750_rtp.sdp

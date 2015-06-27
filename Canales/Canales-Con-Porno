@@ -87,7 +87,7 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F421
 #EXTINF:-1 tvg-id="SkyMX_I311.44563397.microsoft.com" tvg-name="DISNXD311_DISNXD311disney_xd_mexicoCable" tvg-logo="disney-xd.png",Disney XD
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F499
-#EXTINF:-1 tvg-id="SkyMX_I323.176955577.microsoft.com" tvg-name="BOOMLM323_BOOMLM323boomerang_mexicoCable" tvg-logo="boomerang.png",Boomerang
+#EXTINF:-1 tvg-id="SkyMX_I323.176955577.microsoft.com" tvg-name="BOOMLM323_BOOMLM323boomerang_mexicoCable" tvg-logo="boomerang.png" tvg-shift="-2",Boomerang
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2507
 #EXTINF:-1 tvg-id="CVMX_I323.217704452.microsoft.com" tvg-name="TOONCST323_TOONCST323tooncast_latin_americaCable" tvg-logo="tooncast.png",Tooncast
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F443
@@ -165,7 +165,7 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3293
 #EXTINF:-1 tvg-id="CVMX_I625.304916899.microsoft.com" tvg-name="PARAMNT625_PARAMNT625paramount_channelCable" tvg-logo="paramount.png",Paramount Channel
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F260
-#EXTINF:-1 tvg-id="SkyMX_I1407.240063049.microsoft.com" tvg-name="GOLDNHD1407_GOLDNHD1407golden_hdCable" tvg-logo="golden.png",Golden
+#EXTINF:-1 tvg-id="SkyMX_I407.44563250.microsoft.com" tvg-name="GOLDEN407_GOLDEN407goldenPremium" tvg-logo="golden.png",Golden
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F264
 #EXTINF:-1 tvg-id="SkyMX_I409.44563395.microsoft.com" tvg-name="GOLDII409_GOLDII409golden_edgePremium" tvg-logo="golden-edge.png",Golden Edge
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1465
@@ -271,3 +271,39 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F415
 #EXTINF:-1 tvg-id="SkyMX_I706.180185344.microsoft.com" tvg-name="VH1706_VH1706vh1_latin_americaCable" tvg-logo="vh1-hd.png",VH1
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F483
+
+
+#EXTINF:-1,BootGo
+http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
+#EXTINF:-1,XXX 2
+http://edge2.everyon.tv:1935/etv2sb/phd771/huraivza.m3u8
+#EXTINF:-1,Playy
+http://edge2.everyon.tv:1935/etv2sb/phd769/huraivza.m3u8
+#EXTINF:-1,XXX 1
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
+#EXTINF:-1,XXX 2
+http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
+#EXTINF:-1,XXX 3
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+#EXTINF:-1,XXX 4
+http://bit.ly/1OTpsk8
+#EXTINF:-1,Jasmin TV Adulto
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media.m3u8
+#EXTINF:-1,XXX VOD 1
+http://videohttp2.tukif.com/videos/2014/08/60322_20140829.smil/chunklist_b730000.m3u8
+#EXTINF:-1,XXX VOD 2
+http://videohttp2.tukif.com/videos/2014/04/53545_20140425.smil/chunklist_b730000.m3u8
+#EXTINF:-1,XXX VOD 3
+http://videohttp2.tukif.com/videos/2014/07/58172_20140724.smil/chunklist_b730000.m3u8
+#EXTINF:-1,XXX VOD 4
+http://videohttp2.tukif.com/videos/2014/07/clips/57707_20140718.smil/chunklist_b1824000.m3u8
+#EXTINF:-1,XXX VOD 5
+http://videohttp2.tukif.com/videos/2015/04/91211_20150417_MP4.smil/chunklist_b1824000.m3u8
+#EXTINF:-1,XXX VOD 6
+http://videohttp2.tukif.com/videos/2015/04/92443_20150423_MP4.smil/chunklist_b1824000.m3u8
+#EXTINF:-1,XXX VOD 7
+http://videohttp2.tukif.com/videos/2015/03/85672_20150315_MP4.smil/chunklist_b730000.m3u8
+#EXTINF:-1,XXX VOD 8
+http://videohttp2.tukif.com/videos/2015/04/90158_20150413_MP4.smil/chunklist_b1824000.m3u8
+

@@ -59,7 +59,7 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1491
 #EXTINF:-1 tvg-id="SkyMX_I225.274830319.microsoft.com" tvg-name="TBSESLA225_TBSESLA225tbs_espanol_latin_americaCable" tvg-logo="tbs.png",TBS
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F333
-#EXTINF:-1 tvg-id="SkyMX_I224.44563325.microsoft.com" tvg-name="CASACLUB224_CASACLUB224casa_clubCable" tvg-logo="casa-club.png",Casa Club
+#EXTINF:-1 tvg-id="SkyMX_I224.44563325.microsoft.com" tvg-name="CASACLUB224_CASACLUB224mas_chic_tvCable" tvg-logo="casa-club.png",Casa Club
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1475
 #EXTINF:-1 tvg-id="SkyMX_I220.44563420.microsoft.com" tvg-name="TLNOVEL220_TLNOVEL220telenovelasCable" tvg-logo="tlnovelas.png",Tlnovelas
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1461
@@ -257,7 +257,7 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F341
 #EXTINF:-1 tvg-id="SkyMX_I711.44563393.microsoft.com" tvg-name="BANDAMAX711_BANDAMAX711bandamaxCable" tvg-logo="bandamax.png",Bandamax
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1467
-#EXTINF:-1 tvg-id="Total_Canal Telecentro (13 de República Dominicana)" tvg-name="Canal_Telecentro_(13_de_República_Dominicana)" tvg-logo="telecentro.png" tvg-shift="1",TeleCentro
+#EXTINF:-1 tvg-logo="telecentro.png" tvg-shift="1",TeleCentro
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2017
 #EXTINF:-1 tvg-id="MX-Total_I669.293278895.microsoft.com" tvg-name="CARA669_CARA669caracol_internationalCable" tvg-logo="caracol.png",Caracol Internacional
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
@@ -273,35 +273,35 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F483
 #EXTINF:0 tvg-logo="guiatv.png",[COLOR blue]Canales en prueba y en espera de EPG[/COLOR]
 http://guiatv.ga
-#EXTINF:-1 tvg-logo="canal12.png" tvg-shift="5",Canal 12 Cordoba - Argentina
+#EXTINF:-1 tvg-id="Argentina_11.cablevision" tvg-name="Canal_12_Córdoba_(ARTEAR)" tvg-logo="canal12.png" tvg-shift="-11",Canal 12 Cordoba - Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-#EXTINF:0 tvg-logo="a24.png",A24 - Argentina
+#EXTINF:0 tvg-id="Argentina_4.cablevision" tvg-name="A_24" tvg-logo="a24.png" tvg-shift="-4",A24 - Argentina
 http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-logo="DeporTV.png",DeporTV - Argentina
+#EXTINF:0 tvg-logo="DeporTV.png" tvg-shift="-4",DeporTV - Argentina
 rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
-#EXTINF:0 tvg-logo="VIVARA.png",Vivra - Argentina
+#EXTINF:0 tvg-logo="VIVARA.png" tvg-shift="-4",Vivra - Argentina
 http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-logo="Canal 26 HD.png",Canal 26 HD - Argentina
+#EXTINF:0 tvg-id="Argentina_6.cablevision" tvg-name="26_TV" tvg-logo="Canal 26 HD.png" tvg-shift="-4",Canal 26 HD - Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:0 tvg-logo="America TV HD.png",America TV HD - Argentina
+#EXTINF:0 tvg-id="Argentina_15.cablevision" tvg-name="América_2" tvg-logo="America TV HD.png" tvg-shift="-4",America TV HD - Argentina
 http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
-#EXTINF:0 tvg-logo="Telefe HD.png",Telefe HD - Argentina
+#EXTINF:0 tvg-id="Argentina_13.cablevision" tvg-name="Canal_8_Córdoba_(TELEFE)" tvg-logo="Telefe HD.png" tvg-shift="-4",Telefe HD - Argentina
 http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
-#EXTINF:0 tvg-logo="TV Publica HD.png",TV Publica HD - Argentina
+#EXTINF:0 tvg-id="Argentina_14.cablevision" tvg-name="Tv_Pública" tvg-logo="TV Publica HD.png" tvg-shift="-4",TV Publica HD - Argentina
 http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
-#EXTINF:0 tvg-logo="Canal Trece HD.png",Canal Trece HD - Argentina
+#EXTINF:0 tvg-id="Argentina_75.cablevision" tvg-name="El_Canal_de_las_Estrellas" tvg-logo="Canal Trece HD.png" tvg-shift="-4",Canal Trece HD - Argentina
 http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Telefe - Argentina
+#EXTINF:-1 tvg-id="Argentina_13.cablevision" tvg-name="Canal_8_Córdoba_(TELEFE)" tvg-logo="Telefe.png" tvg-shift="-4",Telefe - Argentina
 http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
-#EXTINF:0 tvg-logo="Q Musica.png",Q Musica - Argentina
+#EXTINF:0 tvg-id="Argentina_69.cablevision" tvg-name="Quiero..._Musica_en_mi_Idioma" tvg-logo="Q Musica.png" tvg-shift="-4",Q Musica - Argentina
 mms://streamqm.uigc.net/qmusica
-#EXTINF:0 tvg-logo="guiatv-prueba.png" tvg-shift="-3",C5N - Argentina
+#EXTINF:0 tvg-id="Argentina_5.cablevision" tvg-name="C5N" tvg-logo="C5N.png" tvg-shift="-4",C5N - Argentina
 rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,MegaTV HD -Chile
+#EXTINF:-1 tvg-id="Chile_150.dtv.la" tvg-name="Mega_(150)150" tvg-logo="Mega_hd.png" tvg-shift="-4",MegaTV HD -Chile
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
-#EXTINF:0 tvg-logo="tvn1.png",TVN - Chile
+#EXTINF:0 tvg-id="Chile_149.dtv.la" tvg-name="TVN_(149)149" tvg-logo="tvn1.png" tvg-shift="-4",TVN - Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png",TV Chile
+#EXTINF:0 tvg-id="Total_TV Chile" tvg-name="TV_Chile" tvg-logo="tvchile.png" tvg-shift="-4",TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 #EXTINF:-1,Telecaribe - Colombia
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
@@ -473,49 +473,49 @@ rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",RPC Panamá
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="5",RBC HD - Perú
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="guiatv-prueba.png" tvg-shift="1",RBC HD - Perú
 rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
-#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="5",RBC Canal 11 - Perú
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="rbc.png" tvg-shift="1",RBC Canal 11 - Perú
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
-#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="5",Sol TV - Perú
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
-#EXTINF:0 tvg-logo="guiatv-prueba.png" tvg-shift="5",ATV - Perú
+#EXTINF:0 tvg-id="Total_ATV" tvg-name="ATV" tvg-logo="guiatv-prueba.png" tvg-shift="1",ATV - Perú
 http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png" tvg-shift="5",TV - Perú
+#EXTINF:0 tvg-id="Total_TV Perú" tvg-name="TV_Perú" tvg-logo="tv-peru.png" tvg-shift="1",TV - Perú
 http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png" tvg-shift="5",Willax - Perú
+#EXTINF:0 tvg-id="Total_Willax" tvg-name="Willax" tvg-logo="willax.png" tvg-shift="1",Willax - Perú
 rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
-#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="5",Capital TV - Perú
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Capital TV - Perú
 rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
-#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="5",UCV Satelital - Perú
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",UCV Satelital - Perú
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:0 tvg-logo="america.png" tvg-shift="5",América TV - Perú
+#EXTINF:0 tvg-id="Total_América TV" tvg-name="América_TV" tvg-logo="america.png" tvg-shift="1",América TV - Perú
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-#EXTINF:-1 tvg-shift="5",Panamerica - Perú
+#EXTINF:-1 tvg-id="Total_Panamericana TV" tvg-name="Panamericana_TV" tvg-logo="panamerica.png" tvg-shift="1",Panamerica - Perú
 http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="teleantillas.png" tvg-shift="1",Tele Antillas - República Dominicana
+#EXTINF:-1 tvg-id="Total_Canal 2 de Tele Antillas (República Dominicana)" tvg-name="Tele_Antillas" tvg-logo="teleantillas.png" tvg-shift="4",Tele Antillas - República Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1 tvg-logo="color-vision.png" tvg-shift="1",Color Visión - República Dominicana
+#EXTINF:-1 tvg-id="Total_Canal 9 de Color Visión (República Dominicana)" tvg-name="Color_Visión" tvg-logo="color-vision.png" tvg-shift="4",Color Visión - República Dominicana
 http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Antena Latina - República Dominicana
+#EXTINF:-1 tvg-id="Total_Canal 7 de Antena Latina (República Dominicana)" tvg-name="Canal_7_de_Antena_Latina_(República_Dominicana)" tvg-logo="antena-latina.png" tvg-shift="4",Antena Latina - República Dominicana
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Teleuniverso - República Dominicana
+#EXTINF:-1 tvg-id="Total_Canal 29 de TeleUniverso (República Dominicana)" tvg-name="Canal_29_de_TeleUniverso_(República_Dominicana)" tvg-logo="teleuniverso.png" tvg-shift="4",Teleuniverso - República Dominicana
 http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Teleradio America - República Dominicana
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Teleradio America - República Dominicana
 http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Certv - República Dominicana
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Certv - República Dominicana
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Telefuturo - República Dominicana
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Telefuturo - República Dominicana
 rtmp://ss7.domint.net:1950/tf_str/ playpath=futu swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=139 live=true
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Telenord - República Dominicana
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Telenord - República Dominicana
 http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Romana TV - República Dominicana
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Romana TV - República Dominicana
 http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Vegateve - República Dominicana
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Vegateve - República Dominicana
 http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",MUSA TV - República Dominicana
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",MUSA TV - República Dominicana
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",DominicanYork - República Dominicana
+#EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",DominicanYork - República Dominicana
 rtmp://stream.dominicanyork.tv:1935/dominicanyorktv/ playpath=DMYTV swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=129 live=true
 #EXTINF:-1,Canal Once Punta del Este - Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#

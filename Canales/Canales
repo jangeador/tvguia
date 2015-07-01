@@ -257,7 +257,7 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F341
 #EXTINF:-1 tvg-id="SkyMX_I711.44563393.microsoft.com" tvg-name="BANDAMAX711_BANDAMAX711bandamaxCable" tvg-logo="bandamax.png",Bandamax
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1467
-#EXTINF:-1 tvg-logo="telecentro.png" tvg-shift="1",TeleCentro
+#EXTINF:-1 tvg-id="Total_Canal Telecentro (13 de República Dominicana)" tvg-name="Telecentro" tvg-logo="telecentro.png" tvg-shift="1",TeleCentro
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2017
 #EXTINF:-1 tvg-id="MX-Total_I669.293278895.microsoft.com" tvg-name="CARA669_CARA669caracol_internationalCable" tvg-logo="caracol.png",Caracol Internacional
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
@@ -271,76 +271,100 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F415
 #EXTINF:-1 tvg-id="SkyMX_I706.180185344.microsoft.com" tvg-name="VH1706_VH1706vh1_latin_americaCable" tvg-logo="vh1-hd.png",VH1
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F483
+#EXTINF:0 tvg-id="Argentina_719.dtv.la" tvg-name="América_24_(719)719" tvg-logo="a24.png",A24 - Argentina
+http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="Argentina_720.dtv.la" tvg-name="Canal_26_(720)720" tvg-logo="Canal 26 HD.png",Canal 26 HD - Argentina
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Argentina_120.dtv.la" tvg-name="América_(120)120" tvg-logo="America TV HD.png",America TV HD - Argentina
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Argentina_1123.dtv.la" tvg-name="Telefe_HD_(1123)1123" tvg-logo="Telefe HD.png",Telefe HD - Argentina
+http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Argentina_1121.dtv.la" tvg-name="TV_Pública_HD_(1121)1121" tvg-logo="TV Publica HD.png",TV Publica HD - Argentina
+http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
+#EXTINF:0 tvg-id="Argentina_124.dtv.la" tvg-name="Canal_13_(124)124" tvg-logo="Canal Trece HD.png",Canal Trece HD - Argentina
+http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="Argentina_1123.dtv.la" tvg-name="Telefe_HD_(1123)1123" tvg-logo="Telefe.png",Telefe - Argentina
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+#EXTINF:0 tvg-id="Argentina_269.dtv.la" tvg-name="Quiero_Música_en_mi_Idioma_(269)269" tvg-logo="Q Musica.png",Q Musica - Argentina
+mms://streamqm.uigc.net/qmusica
+#EXTINF:0 tvg-id="Argentina_717.dtv.la" tvg-name="C5N_(717)717" tvg-logo="C5N.png",C5N - Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-id="Chile_150.dtv.la" tvg-name="Mega_(150)150" tvg-logo="Mega_hd.png",MegaTV HD -Chile
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:0 tvg-id="Chile_149.dtv.la" tvg-name="TVN_(149)149" tvg-logo="tvn1.png",TVN - Chile
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="Total_TV Chile" tvg-name="TV_Chile" tvg-logo="tvchile.png" tvg-shift="5",TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-id="Colombia_136.dtv.la" tvg-name="Canal_Uno_(136)136" tvg-logo="canaluno_colombia.png" tvg-shift="2",Canal UNO - Colombia
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#
+#EXTINF:-1 tvg-id="Colombia_140.dtv.la" tvg-name="TeleAntioquia_(140)140" tvg-logo="teleantioquia.png" tvg-shift="2",Teleantioquia - Colombia
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+#EXTINF:-1 tvg-id="Colombia_147.dtv.la" tvg-name="Cable_Noticias_(147)147" tvg-logo="Cable_Noticias.png" tvg-shift="2",Cable Noticias - Colombia
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+#EXTINF:-1 tvg-id="Colombia_146.dtv.la" tvg-name="El_Tiempo_(146)146" tvg-logo="eltiempo.png" tvg-shift="2",El Tiempo Televisión - Colombia
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+#EXTINF:-1 tvg-id="Colombia_132.dtv.la" tvg-name="Caracol_(132)132" tvg-logo="caracol.png" tvg-shift="2",CaracolTV - Colombia
+http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Colombia_137.dtv.la" tvg-name="Señal_Colombia_(137)137" tvg-logo="Señal_Colombia.png" tvg-shift="2",Señal Colombia - Colombia
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8?
+#EXTINF:-1 tvg-id="Colombia_143.dtv.la" tvg-name="Canal_Capital_(143)143" tvg-logo="Canal-Capital.png" tvg-shift="2",Canal Capital - Colombia
+http://cdns840stu1010.multistream.net/canalcapitallive/live-500/playlist_b500000.m3u8?
+#EXTINF:-1 tvg-id="Colombia_138.dtv.la" tvg-name="Señal_Institucional_(138)138" tvg-logo="Señal_Institucional.png" tvg-shift="2",Señal Institucional - Colombia
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
+#EXTINF:-1 tvg-id="Colombia_132.dtv.la" tvg-name="Caracol_(132)132" tvg-logo="caracol.png" tvg-shift="2",Caracol HD - Colombia
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Total_Canal 6 Repretel (Costa Rica)" tvg-name="Canal_6_Repretel_(Costa_Rica)" tvg-logo="canal6.png" tvg-shift="4",Canal 6 - Costa Rica
+rtmp://k3.usastreams.com:1935/cana6/cana6
+#EXTINF:-1 tvg-id="Total_Canal 7 de Teletica (Costa Rica)" tvg-name="Canal_7_de_Teletica_(Costa_Rica)" tvg-logo="teletica.png" tvg-shift="4",Canal 7 Teletica - Costa Rica
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 9 de Costa Rica" tvg-name="Canal_9_de_Costa_Rica" tvg-logo="canal_9_de_costa_rica.png" tvg-shift="4",Canal 9 - Costa Rica
+rtmp://k3.usastreams.com:1935/canal9/canal9
+#EXTINF:-1 tvg-id="Total_Canal 13 de Costa Rica" tvg-name="Canal_13_de_Costa_Rica" tvg-logo="canal-13.png" tvg-shift="4",Canal 13 - Costa Rica
+rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+#EXTINF:-1 tvg-id="Total_Canal Extra TV 42 de Costa Rica" tvg-name="Canal_Extra_TV_42_de_Costa_Rica" tvg-logo="canal_extra_tv_42_de_costa_rica.png" tvg-shift="4",Canal 42 - Costa Rica
+rtmp://k3.usastreams.com:1935/canal42/canal42
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="rbc.png" tvg-shift="5",RBC HD - Perú
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="rbc.png" tvg-shift="5",RBC Canal 11 - Perú
+rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
+#EXTINF:0 tvg-id="Total_ATV" tvg-name="ATV" tvg-logo="atv.png" tvg-shift="5",ATV - Perú
+http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="Total_TV Perú" tvg-name="TV_Perú" tvg-logo="tv-peru.png" tvg-shift="5",TV - Perú
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:0 tvg-id="Total_Willax" tvg-name="Willax" tvg-logo="willax.png",Willax - Perú
+rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
+#EXTINF:0 tvg-id="Total_América TV" tvg-name="América_TV" tvg-logo="america.png" tvg-shift="5",América TV - Perú
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+#EXTINF:-1 tvg-id="Total_Panamericana TV" tvg-name="Panamericana_TV" tvg-logo="panamerica.png" tvg-shift="5",Panamerica - Perú
+http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 2 de Tele Antillas (República Dominicana)" tvg-name="Tele_Antillas" tvg-logo="teleantillas.png" tvg-shift="-1",Tele Antillas - República Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 9 de Color Visión (República Dominicana)" tvg-name="Color_Visión" tvg-logo="color-vision.png" tvg-shift="-1",Color Visión - República Dominicana
+http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 7 de Antena Latina (República Dominicana)" tvg-name="Canal_7_de_Antena_Latina_(República_Dominicana)" tvg-logo="antena-latina.png" tvg-shift="-1",Antena Latina - República Dominicana
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 29 de TeleUniverso (República Dominicana)" tvg-name="Canal_29_de_TeleUniverso_(República_Dominicana)" tvg-logo="teleuniverso.png" tvg-shift="-1",Teleuniverso - República Dominicana
+http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
 #EXTINF:0 tvg-logo="guiatv.png",[COLOR blue]Canales en prueba y en espera de EPG[/COLOR]
 http://guiatv.ga
-#EXTINF:-1 tvg-id="Argentina_11.cablevision" tvg-name="Canal_12_Córdoba_(ARTEAR)" tvg-logo="canal12.png" tvg-shift="-11",Canal 12 Cordoba - Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-#EXTINF:0 tvg-id="Argentina_4.cablevision" tvg-name="A_24" tvg-logo="a24.png" tvg-shift="-4",A24 - Argentina
-http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-logo="DeporTV.png" tvg-shift="-4",DeporTV - Argentina
 rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
 #EXTINF:0 tvg-logo="VIVARA.png" tvg-shift="-4",Vivra - Argentina
 http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-id="Argentina_6.cablevision" tvg-name="26_TV" tvg-logo="Canal 26 HD.png" tvg-shift="-4",Canal 26 HD - Argentina
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:0 tvg-id="Argentina_15.cablevision" tvg-name="América_2" tvg-logo="America TV HD.png" tvg-shift="-4",America TV HD - Argentina
-http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
-#EXTINF:0 tvg-id="Argentina_13.cablevision" tvg-name="Canal_8_Córdoba_(TELEFE)" tvg-logo="Telefe HD.png" tvg-shift="-4",Telefe HD - Argentina
-http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
-#EXTINF:0 tvg-id="Argentina_14.cablevision" tvg-name="Tv_Pública" tvg-logo="TV Publica HD.png" tvg-shift="-4",TV Publica HD - Argentina
-http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
-#EXTINF:0 tvg-id="Argentina_75.cablevision" tvg-name="El_Canal_de_las_Estrellas" tvg-logo="Canal Trece HD.png" tvg-shift="-4",Canal Trece HD - Argentina
-http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="Argentina_13.cablevision" tvg-name="Canal_8_Córdoba_(TELEFE)" tvg-logo="Telefe.png" tvg-shift="-4",Telefe - Argentina
-http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
-#EXTINF:0 tvg-id="Argentina_69.cablevision" tvg-name="Quiero..._Musica_en_mi_Idioma" tvg-logo="Q Musica.png" tvg-shift="-4",Q Musica - Argentina
-mms://streamqm.uigc.net/qmusica
-#EXTINF:0 tvg-id="Argentina_5.cablevision" tvg-name="C5N" tvg-logo="C5N.png" tvg-shift="-4",C5N - Argentina
-rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1 tvg-id="Chile_150.dtv.la" tvg-name="Mega_(150)150" tvg-logo="Mega_hd.png" tvg-shift="-4",MegaTV HD -Chile
-http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
-#EXTINF:0 tvg-id="Chile_149.dtv.la" tvg-name="TVN_(149)149" tvg-logo="tvn1.png" tvg-shift="-4",TVN - Chile
-http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-id="Total_TV Chile" tvg-name="TV_Chile" tvg-logo="tvchile.png" tvg-shift="-4",TV Chile
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-logo="canal12.png",Canal 12 Cordoba - Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
 #EXTINF:-1,Telecaribe - Colombia
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1,Canal UNO - Colombia
-http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#
 #EXTINF:-1,Yes! - Colombia
 http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
 #EXTINF:-1,Televentas - Colombia
 http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_index.m3u8
-#EXTINF:-1,Teleantioquia - Colombia
-http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
-#EXTINF:-1,Cable Noticias - Colombia
-http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
-#EXTINF:-1,El Tiempo Televisión - Colombia
-http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",CaracolTV - Colombia
-http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Señal Colombia - Colombia
-http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8?
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal Capital - Colombia
-http://cdns840stu1010.multistream.net/canalcapitallive/live-500/playlist_b500000.m3u8?
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Señal Institucional - Colombia
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal Tr3ce - Colombia
 http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
-#EXTINF:-1,Caracol HD - Colombia
-http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",TV Polanco - Colombia
 http://186.155.200.118:1935/live/ColombiasuMusica/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal 13 - Costa Rica
-rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal 6 - Costa Rica
-rtmp://k3.usastreams.com:1935/cana6/cana6
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal 9 - Costa Rica
-rtmp://k3.usastreams.com:1935/canal9/canal9
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",27 TV - Costa Rica
 http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal 42 - Costa Rica
-rtmp://k3.usastreams.com:1935/canal42/canal42
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",Colosal TV - Costa Rica
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:0 tvg-logo="guiatv-prueba.png",CB Televisión - Costa Rica
@@ -355,57 +379,57 @@ rtmp://k3.usastreams.com:1935/tv33/tv33
 http://38.96.148.216:1935/live/canelatv/playlist.m3u8
 #EXTINF:0 tvg-logo="guiatv-prueba.png",Cañar - Ecuador
 rtmp://ecuastreamhd.com:1935/canartv/canartv
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Telecinco - España
+#EXTINF:-1 tvg-id="ES-SAT_I193.754266.microsoft.com" tvg-name="Telecinco193_Telecinco193" tvg-logo="telecinco.png",Telecinco - España
 http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",ETB - - España
+#EXTINF:-1 tvg-id="ES-SAT_I95.752722.microsoft.com" tvg-name="ETB_Sat95_ETB_Sat95" tvg-logo="etb.png",ETB - - España
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Nova - España
+#EXTINF:-1 tvg-id="Total_Nova" tvg-name="Nova" tvg-logo="nova.png",Nova - España
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",TV Galicia - España
+#EXTINF:-1 tvg-id="Total_Galicia TV" tvg-name="Galicia_TV" tvg-logo="tvgalicia.png",TV Galicia - España
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Aragón TV - España
+#EXTINF:-1 tvg-id="Total_Aragón Televisión" tvg-name="Aragón_Televisión" tvg-logo="aragon_tv.png",Aragón TV - España
 http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",Libertad Digital TV - España
 http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",13 TV - España (Emisión Web)
+#EXTINF:-1 tvg-id="Total_13tv" tvg-name="13tv" tvg-logo="13tv.png",13 TV - España (Emisión Web)
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal 24 Horas - España
+#EXTINF:-1 tvg-id="Total_Canal 24 horas" tvg-name="Canal_24_horas" tvg-logo="rtve.png",Canal 24 Horas - España
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal 10 - España
+#EXTINF:-1 tvg-id="ES-SAT_I29.755205.microsoft.com" tvg-name="Canal_10_TV29_Canal_10_TV29" tvg-logo="canal-10-es.png",Canal 10 - España
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Canal Costa - España
+#EXTINF:-1 tvg-id="ES-SAT_I82.755248.microsoft.com" tvg-name="Costa_del_Sol_TV82_Costa_del_Sol_TV82" tvg-logo="guiatv-prueba.png",Canal Costa - España
 http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",Enlace Deportes 1 - España
 http://universalhdlive.marca.com/i/dr21_1@100203/index_6_av-p.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Euronews - España
+#EXTINF:-1 tvg-id="CVMX_I715.44563133.microsoft.com" tvg-name="EURONEWS715_EURONEWS715euronewsCable" tvg-logo="euronews-logo.png",Euronews - España
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Granada 7 TV - España
+#EXTINF:-1 tvg-id="ES-SAT_I32.755208.microsoft.com" tvg-name="Canal_21_Granada32_Canal_21_Granada32" tvg-logo="guiatv-prueba.png",Granada 7 TV - España
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",Huelva TV - España
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Huesca TV - España
+#EXTINF:-1 tvg-id="ES-SAT_I133.755270.microsoft.com" tvg-name="Localia_TV_Huesca133_Localia_TV_Huesca133" tvg-logo="guiatv-prueba.png",Huesca TV - España
 rtmp://streaming2.radiohuesca.com/live/huescatv
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",Información TV - España
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Kiss TV - España
+#EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 #EXTINF:-1,Travel TV - España
 rtmp://87.106.219.140/live/myStream_2
-#EXTINF:-1,Antena 3 Internacional - España
+#EXTINF:-1 tvg-id="ES-SAT_I8.754189.microsoft.com" tvg-name="Antena_38_Antena_38" tvg-logo="antena-3.png",Antena 3 Internacional - España
 http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png",Antena 3 - España
+#EXTINF:0 tvg-id="ES-SAT_I8.754189.microsoft.com" tvg-name="Antena_38_Antena_38" tvg-logo="guiatv-prueba.png",Antena 3 - España
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:0 tvg-logo="guiatv-prueba.png",LaSexta - España
+#EXTINF:0 tvg-id="ES-SAT_I124.755439.microsoft.com" tvg-name="La_Sexta124_La_Sexta124" tvg-logo="guiatv-prueba.png",LaSexta - España
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 #EXTINF:0 tvg-logo="TelesistemaHn.png",Telesistema HD - Honduras
 http://162.212.176.83:8080/telesistema.stream.m3u8
-#EXTINF:0 tvg-logo="canal5Hn.png",canal 5 HD - Honduras
+#EXTINF:0 tvg-id="Total_Canal 5 El Líder (Honduras)" tvg-name="Canal_5_El_Líder_(Honduras)" tvg-logo="canal5Hn.png",canal 5 HD - Honduras
 http://162.212.176.83:8080/canal5.stream.m3u8
 #EXTINF:0 tvg-logo="telecadenaHn.png",Telecadena HD - Honduras
 http://162.212.176.83:8080/telecadena.stream.m3u8
 #EXTINF:0 tvg-logo="tenHn.png",Canal TEN HD - Honduras
 http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8?
-#EXTINF:0 tvg-logo="canal11Hn.png",Canal 11 - Honduras
+#EXTINF:0 tvg-id="Total_Canal 11 de Honduras" tvg-name="Canal_11_de_Honduras" tvg-logo="canal11Hn.png",Canal 11 - Honduras
 http://162.212.176.83:8080/campustv.stream.m3u8
 #EXTINF:0 tvg-logo="hchHn.png",HCH - Honduras
 http://162.212.176.83:8080/hchtv.m3u8
@@ -473,34 +497,12 @@ rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",RPC Panamá
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="guiatv-prueba.png" tvg-shift="1",RBC HD - Perú
-rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
-#EXTINF:-1 tvg-id="Total_RBC" tvg-name="RBC" tvg-logo="rbc.png" tvg-shift="1",RBC Canal 11 - Perú
-rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
-#EXTINF:0 tvg-id="Total_ATV" tvg-name="ATV" tvg-logo="guiatv-prueba.png" tvg-shift="1",ATV - Perú
-http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-id="Total_TV Perú" tvg-name="TV_Perú" tvg-logo="tv-peru.png" tvg-shift="1",TV - Perú
-http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
-#EXTINF:0 tvg-id="Total_Willax" tvg-name="Willax" tvg-logo="willax.png" tvg-shift="1",Willax - Perú
-rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Capital TV - Perú
 rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",UCV Satelital - Perú
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:0 tvg-id="Total_América TV" tvg-name="América_TV" tvg-logo="america.png" tvg-shift="1",América TV - Perú
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-#EXTINF:-1 tvg-id="Total_Panamericana TV" tvg-name="Panamericana_TV" tvg-logo="panamerica.png" tvg-shift="1",Panamerica - Perú
-http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Total_Canal 2 de Tele Antillas (República Dominicana)" tvg-name="Tele_Antillas" tvg-logo="teleantillas.png" tvg-shift="4",Tele Antillas - República Dominicana
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="Total_Canal 9 de Color Visión (República Dominicana)" tvg-name="Color_Visión" tvg-logo="color-vision.png" tvg-shift="4",Color Visión - República Dominicana
-http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
-#EXTINF:-1 tvg-id="Total_Canal 7 de Antena Latina (República Dominicana)" tvg-name="Canal_7_de_Antena_Latina_(República_Dominicana)" tvg-logo="antena-latina.png" tvg-shift="4",Antena Latina - República Dominicana
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1 tvg-id="Total_Canal 29 de TeleUniverso (República Dominicana)" tvg-name="Canal_29_de_TeleUniverso_(República_Dominicana)" tvg-logo="teleuniverso.png" tvg-shift="4",Teleuniverso - República Dominicana
-http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Teleradio America - República Dominicana
 http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Certv - República Dominicana

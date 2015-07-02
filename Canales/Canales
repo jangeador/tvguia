@@ -87,7 +87,7 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F421
 #EXTINF:-1 tvg-id="SkyMX_I311.44563397.microsoft.com" tvg-name="DISNXD311_DISNXD311disney_xd_mexicoCable" tvg-logo="disney-xd.png",Disney XD
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F499
-#EXTINF:-1 tvg-id="SkyMX_I323.176955577.microsoft.com" tvg-name="BOOMLM323_BOOMLM323boomerang_mexicoCable" tvg-logo="boomerang.png",Boomerang
+#EXTINF:-1 tvg-id="SkyMX_I323.176955577.microsoft.com" tvg-name="BOOMLM323_BOOMLM323boomerang_mexicoCable" tvg-logo="boomerang.png" tvg-shift="-2",Boomerang
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2507
 #EXTINF:-1 tvg-id="CVMX_I323.217704452.microsoft.com" tvg-name="TOONCST323_TOONCST323tooncast_latin_americaCable" tvg-logo="tooncast.png",Tooncast
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F443

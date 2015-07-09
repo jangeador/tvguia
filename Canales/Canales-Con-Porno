@@ -723,4 +723,5 @@ http://videohttp2.tukif.com/videos/2015/04/92443_20150423_MP4.smil/chunklist_b18
 http://videohttp2.tukif.com/videos/2015/03/85672_20150315_MP4.smil/chunklist_b730000.m3u8
 #EXTINF:-1,XXX VOD 8
 http://videohttp2.tukif.com/videos/2015/04/90158_20150413_MP4.smil/chunklist_b1824000.m3u8
-
+#EXTINF:-1, tvg-name="Bein Ñ" tvg-logo="beins.png",Bein Ñ
+http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629

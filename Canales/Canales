@@ -689,5 +689,3 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1, tvg-name="Bein Ñ" tvg-logo="beins.png",Bein Ñ
 http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
-#EXTINF:-1,Prueba Nick
-http://oneplay.tv/applicationlive/reproducir/214_OitWHoAJNQmUfMxLzynuaBjbEqKwCR.m3u8|user-agent=Lavf53.32.100

@@ -723,5 +723,44 @@ http://videohttp2.tukif.com/videos/2015/04/92443_20150423_MP4.smil/chunklist_b18
 http://videohttp2.tukif.com/videos/2015/03/85672_20150315_MP4.smil/chunklist_b730000.m3u8
 #EXTINF:-1,XXX VOD 8
 http://videohttp2.tukif.com/videos/2015/04/90158_20150413_MP4.smil/chunklist_b1824000.m3u8
-#EXTINF:-1, tvg-name="Bein Ñ" tvg-logo="beins.png",Bein Ñ
-http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+#EXTINF:0,O-la-la
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+
+#EXTINF:0,Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:-1,Blue Hustler
+http://46.61.226.21/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:-1,Playboy TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+
+#EXTINF:-1,XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+
+#EXTINF:-1,Brazzers TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BRAZZERSTV/variant.m3u8?version=2
+
+#EXTINF:-1,LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1,Playboy TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1,Private.com
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+
+#EXTINF:-1,Sex 18+
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1,Babestation XXX
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+#EXTINF:0,Babespotting
+http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp.m3u8
+
+#EXTINF:0,Claro Adulto 18+
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+#EXTINF:0,Claro Adulto 18+ Premium
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8

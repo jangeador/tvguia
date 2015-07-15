@@ -689,3 +689,22 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1, tvg-name="Bein Ñ" tvg-logo="beins.png",Bein Ñ
 http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+#EXTINF:-1, NBC GOLF SD - Inglés
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, NBC GOLF 720p - Inglés
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1, NBC GOLF 1080p - Inglés
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1,NBC Sports Network 1080P - Inglés
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1,USA Live TV Big Ten Network - Inglés
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1 tvg-logo="neox.png",Neox
+http://a3live-lh.akamaihd.net/i/neox/neox_1@35261/master.m3u8
+#EXTINF:-1, tvg-name="Mega" tvg-logo="MEGA.png",Mega
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8

@@ -610,9 +610,9 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2443
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1263.png" group-title="information",BBC TWO
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2445
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1433.png" group-title="information",BBC Three
+#EXTINF:-1 tvg-id="I210.597322.microsoft.com" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1433.png" group-title="information",BBC Three
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2869
-#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1435.png" group-title="information",BBC Four
+#EXTINF:-1 tvg-id="I211.711188.microsoft.com" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1435.png" group-title="information",BBC Four
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2871
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1431.png" group-title="information",5 USA
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2867

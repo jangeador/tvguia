@@ -3,7 +3,7 @@
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1999
 #EXTINF:-1 tvg-logo="Canal-de-las-estrellas.png" group-title="information",Canal De Las Estrellas
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4552
-#EXTINF:-1 tvg-logo="univision.png" group-title="entertainments",Univision
+#EXTINF:-1 tvg-id="I827.28456312.microsoft.com" tvg-logo="univision.png" group-title="entertainments",Univision
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3800
 #EXTINF:-1 tvg-logo="unimas.png" group-title="entertainments",UniMas
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602

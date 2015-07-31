@@ -1790,3 +1790,5 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="vevo.png" tvg-shift="4",Vevo Nashville
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="nick.png",Nick
+rtmp://95.211.184.231/live playpath=nickelodeon2019?id=227908&pk=7fac22008ab752cb3212780bb40992a76df4128f376f8b938ef83b62d8086f4a swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf <pageUrl>http://www.mipsplayer.com/embedplayer/nickelodeon2019/1/600/385 Conn=S:OK --live

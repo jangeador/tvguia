@@ -9,21 +9,18 @@ Una lista de los canales y la guia de IPTV publicados por el Proyecto TV Guia en
 
 1. Seleccione la lista de canales que desee:
 	
-	a. Canales HD (todos)
+	a. Canales (Lista Original)
 
-		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/hd
+		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/Canales
 
-	b. Canales HD (Familiar)
+	b. Canales-Castellano (Lista nueva en fase de prueba - espanol solamente)
 
-		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/hdf
+		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/Canales-Castellano
 
-	b. Canales SD (Todos) (usa menos ancho de banda)
+	c. Canales Todos (Todos los canales con su guia y logos, mas de 500 canales)
 
-		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/sd
+		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/TVGuia-Full-Family
 
-	b. Canales HD (Familiar) (usa menos ancho de banda)
-
-		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/sdf
 
 2. Usar esta direccion como fuente de la guia
 

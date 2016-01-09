@@ -43,13 +43,13 @@ http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I218.49820.tutvguia.com" tvg-name="218_UNICAB218UNICABUnicable_(Mexico)" tvg-logo="unicable.png" group-title="Español",Unicable
 http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="Total-MX_I253.3343.tutvguia.com" tvg-name="253_BBC253BBCBBC_World_News" tvg-logo="bbc-entertainment.png" group-title="Español",BBC Entertainment
+#EXTINF:-1 tvg-id="Total-MX_I253.3343.tutvguia.com" tvg-name="253_BBCINT253BBCINTBBC_World_News" tvg-logo="bbc-entertainment.png" group-title="Español",BBC Entertainment
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I255.2247.tutvguia.com" tvg-name="255_E!255E!E!_Entertainment_Television_(Mexico)" tvg-logo="!e.png" group-title="Español",E! Entertainment Television
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I256.19205.tutvguia.com" tvg-name="256_UNIVE256UNIVEUniversal_Channel_(Mexico)" tvg-logo="universal-channel.png" group-title="Español",Universal Channel
 http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="Total-MX_I257.21041.tutvguia.com" tvg-name="257_Syfy257SyfySyfy_(Latin_America)" tvg-logo="syfy.png" group-title="Español",SyFy
+#EXTINF:-1 tvg-id="Total-MX_I257.21041.tutvguia.com" tvg-name="257_SYFY257SYFYSyfy_(Latin_America)" tvg-logo="syfy.png" group-title="Español",SyFy
 http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I258.16756.tutvguia.com" tvg-name="258_FX258FXFX_Latin_America" tvg-logo="fx.png" group-title="Español",FX
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -155,7 +155,7 @@ http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I480.5012.tutvguia.com" tvg-name="480_CINE-O480CINE-OCinecanal_(Oeste)" tvg-logo="cinecanal-(W).png" group-title="Español",Cinecanal
 http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="Total-MX_I481.3995.tutvguia.com" tvg-name="481_CINEMAX481CINEMAXCinemax_(Mexico)" tvg-logo="cinemax-(w).png" group-title="Español",Cinemax
+#EXTINF:-1 tvg-id="Total-MX_I481.3995.tutvguia.com" tvg-name="481_CINMAX481CINMAXCinemax_(Mexico)" tvg-logo="cinemax-(w).png" group-title="Español",Cinemax
 http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I482.4574.tutvguia.com" tvg-name="482_TNT482TNTTNT_Latin_America_(Mexico)" tvg-logo="tnt.png" group-title="Español",TNT
 http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -333,7 +333,7 @@ http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=443
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=317
 #EXTINF:-1 tvg-id="Total-MX_I252.5048.tutvguia.com" tvg-name="252_SONY252SONYSony_Entertainment_Television_(Mexico)" tvg-logo="sony.png" group-title="information",Canal Sony
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=2501
-#EXTINF:-1 tvg-id="Total-MX_I253.3343.tutvguia.com" tvg-name="253_BBC253BBCBBC_World_News" tvg-logo="bbc-entertainment.png" group-title="entertainments",BBC Entertainment Latinoamerica
+#EXTINF:-1 tvg-id="Total-MX_I253.3343.tutvguia.com" tvg-name="253_BBCINT253BBCINTBBC_World_News" tvg-logo="bbc-entertainment.png" group-title="entertainments",BBC Entertainment Latinoamerica
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=1407
 #EXTINF:-1 tvg-id="Total-MX_I261.2177.tutvguia.com" tvg-name="261_UNICABHD261UNICABHDUnicable_HDTV" tvg-logo="unicable.png" group-title="information",Unicable
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=3804
@@ -347,7 +347,7 @@ http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=431
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=387
 #EXTINF:-1 tvg-id="Total-MX_I251.5022.tutvguia.com" tvg-name="251_FOX251FOXFox_International_(Mexico)" tvg-logo="fox.png" group-title="entertainments",Fox Latinoamerica
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=3947
-#EXTINF:-1 tvg-id="Total-MX_I257.21041.tutvguia.com" tvg-name="257_Syfy257SyfySyfy_(Latin_America)" tvg-logo="syfy.png" group-title="entertainments",Syfy Latinoamerica
+#EXTINF:-1 tvg-id="Total-MX_I257.21041.tutvguia.com" tvg-name="257_SYFY257SYFYSyfy_(Latin_America)" tvg-logo="syfy.png" group-title="entertainments",Syfy Latinoamerica
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=447
 #EXTINF:-1 tvg-id="Total-MX_I211.28535.tutvguia.com" tvg-name="211_A&E_HD211A&E_HDA&E_HD_(Latin_America)" tvg-logo="a&e.png" group-title="entertainments",A&E Latinoamerica
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=258
@@ -433,7 +433,7 @@ http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=1041
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=262
 #EXTINF:-1 tvg-id="Total-MX_I480.5012.tutvguia.com" tvg-name="480_CINE-O480CINE-OCinecanal_(Oeste)" tvg-logo="cinecanal-(W).png" group-title="cinema",CineCanal
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=2495
-#EXTINF:-1 tvg-id="Total-MX_I481.3995.tutvguia.com" tvg-name="481_CINEMAX481CINEMAXCinemax_(Mexico)" tvg-logo="cinemax-(w).png" group-title="cinema",Cinemax Latinoamerica
+#EXTINF:-1 tvg-id="Total-MX_I481.3995.tutvguia.com" tvg-name="481_CINMAX481CINMAXCinemax_(Mexico)" tvg-logo="cinemax-(w).png" group-title="cinema",Cinemax Latinoamerica
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=343
 #EXTINF:-1 tvg-id="Total-MX_I445.27416.tutvguia.com" tvg-name="445_SPACEHD445SPACEHDSPACE_HDTV_(Mexico)" tvg-logo="space.png" group-title="cinema",SPACE
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=2489
@@ -741,7 +741,7 @@ http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=164
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=491
 #EXTINF:-1 tvg-id="Dish-USA_I135.3389.tutvguia.com" tvg-name="135_BBC135BBCBBC_America_(East)" tvg-logo="bbc-entertainment.png" group-title="cinema",BBC America
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=184
-#EXTINF:-1 tvg-id="Dish-USA_I136.398.tutvguia.com" tvg-name="136_FX136FXFX_(East)" tvg-logo="fx.png" group-title="entertainments",FX East
+#EXTINF:-1 tvg-id="Dish-USA_I136.398.tutvguia.com" tvg-name="136_FX-E136FX-EFX-East" tvg-logo="fx.png" group-title="entertainments",FX East
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=997
 #EXTINF:-1 tvg-id="Dish-USA_I138.427.tutvguia.com" tvg-name="138_TNT138TNTTurner_Network_Television_(East)" tvg-logo="tnt.png" group-title="entertainments",TNT
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=977
@@ -785,7 +785,7 @@ http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=4872
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=1701
 #EXTINF:-1 tvg-id="Dish-USA_I172.430.tutvguia.com" tvg-name="172_DISNEY172DISNEYThe_Disney_Channel_(East)" tvg-logo="disney-channel.png" group-title="children's",Disney Channel East
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=196
-#EXTINF:-1 tvg-id="Dish-USA_I173.2499.tutvguia.com" tvg-name="173_DIS-W173DIS-W" tvg-logo="disney-channel.png" group-title="children's",Disney Channel West
+#EXTINF:-1 tvg-id="Dish-USA_I173.2499.tutvguia.com" tvg-name="173_DISNEY173DISNEYThe_Disney_Channel_(West)" tvg-logo="disney-channel.png" group-title="children's",Disney Channel West
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=4862
 #EXTINF:-1 tvg-id="Dish-USA_I174.3474.tutvguia.com" tvg-name="174_DISXD174DISXDDisney_XD_(East)" tvg-logo="disney-xd.png" group-title="children's",Disney XD
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=4860
@@ -941,7 +941,7 @@ http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=2337
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=4895
 #EXTINF:-1 tvg-id="DTV-USA_I522.21215.tutvguia.com" tvg-name="522_TMXHD522TMXHDThrillerMAX_HDTV_(East)" tvg-logo="ThrillerMax.png" group-title="cinema",ThrillerMax East
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=2533
-#EXTINF:-1 tvg-id="Dish-USA_I318.415.tutvguia.com" tvg-name="318_SHO318SHOShowtime_(East)" tvg-logo="Showtime.png" group-title="information",Showtime East
+#EXTINF:-1 tvg-id="Dish-USA_I318.415.tutvguia.com" tvg-name="318_SHOe318SHOeShowtime_(East)" tvg-logo="Showtime.png" group-title="information",Showtime East
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=218
 #EXTINF:-1 tvg-id="Dish-USA_I319.2512.tutvguia.com" tvg-name="319_SHOw319SHOwShowtime_(West)" tvg-logo="Showtime.png" group-title="cinema",Showtime West
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=969
@@ -955,11 +955,11 @@ http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=973
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=975
 #EXTINF:-1 tvg-id="DTV-USA_I551.27058.tutvguia.com" tvg-name="551_SHOND551SHONDShowtime_Next_East_HDTV_(East)" tvg-logo="Showtime_next.png" group-title="cinema",Showtime Next
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=1097
-#EXTINF:-1 tvg-id="Dish-USA_I327.1535.tutvguia.com" tvg-name="327_TMC327TMCThe_Movie_Channel_(East)" tvg-logo="the-movie-channel.png" group-title="cinema",The Movie Channel East
+#EXTINF:-1 tvg-id="Dish-USA_I327.1535.tutvguia.com" tvg-name="327_TMCe327TMCeThe_Movie_Channel_(East)" tvg-logo="the-movie-channel.png" group-title="cinema",The Movie Channel East
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=220
 #EXTINF:-1 tvg-id="Dish-USA_I328.2196.tutvguia.com" tvg-name="328_TMCXe328TMCXeThe_Movie_Channel_Xtra_(East)" tvg-logo="the-movie-channel.png" group-title="cinema",The Movie Channel Xtra East
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=1009
-#EXTINF:-1 tvg-id="Dish-USA_I340.413.tutvguia.com" tvg-name="340_ENC340ENCEncore_(East)" tvg-logo="Encore.png" group-title="cinema",Encore East
+#EXTINF:-1 tvg-id="Dish-USA_I340.413.tutvguia.com" tvg-name="340_ENCRe340ENCReEncore_(East)" tvg-logo="Encore.png" group-title="cinema",Encore East
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=222
 #EXTINF:-1 tvg-id="Dish-USA_I343.2000.tutvguia.com" tvg-name="343_ENCA343ENCAEncore_Action_(East)" tvg-logo="encore_action.png" group-title="cinema",Encore Action East
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=4897
@@ -1063,19 +1063,19 @@ http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSportsFloridaUS/playlist.m3u8
 http://lb.iptvserver.tv:8080/redirect/LiveEdge/FSNTXUS/playlist.m3u8
 #EXTINF:-1 tvg-id="Dish-USA_I411.1175.tutvguia.com" tvg-name="411_PRIME411PRIMEFox_Sports_Prime_Ticket" tvg-logo="Fox_sports_primeticket.png" group-title="sports",Fox Sports Prime Ticket
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=6994
-#EXTINF:-1 tvg-id="DTV-USA_I701.10859.tutvguia.com" tvg-name="701_NFL1701NFL1NFL_Sunday_Ticket" tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 1
+#EXTINF:-1 tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 1
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=8629
-#EXTINF:-1 tvg-id="DTV-USA_I702.37111.tutvguia.com" tvg-name="702_NFL2702NFL2NFL_Sunday_Ticket_HDTV" tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 2
+#EXTINF:-1 tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 2
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=8634
-#EXTINF:-1 tvg-id="DTV-USA_I703.37112.tutvguia.com" tvg-name="703_NFL3703NFL3NFL_Sunday_Ticket_HDTV" tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 3
+#EXTINF:-1 tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 3
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=8636
-#EXTINF:-1 tvg-id="DTV-USA_I704.12711.tutvguia.com" tvg-name="704_NFLHD704NFLHDNFL_Sunday_Ticket_HDTV" tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 4
+#EXTINF:-1 tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 4
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=8641
-#EXTINF:-1 tvg-id="DTV-USA_I705.12712.tutvguia.com" tvg-name="705_NFLHD705NFLHDNFL_Sunday_Ticket_HDTV" tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 5
+#EXTINF:-1 tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 5
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=8644
-#EXTINF:-1 tvg-id="DTV-USA_I706.12713.tutvguia.com" tvg-name="706_NFLHD706NFLHDNFL_Sunday_Ticket_HDTV" tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 6
+#EXTINF:-1 tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 6
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=8646
-#EXTINF:-1 tvg-id="DTV-USA_I707.15035.tutvguia.com" tvg-name="707_NFLHD707NFLHDNFL_Sunday_Ticket_HDTV" tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 7
+#EXTINF:-1 tvg-logo="nfl-sunday-ticket.png" group-title="information",NFL Sunday Ticket 7
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=8651
 #EXTINF:-1 tvg-id="Dish-USA_I470.01.76692.tutvguia.com" tvg-name="470.01_NBALP470.01NBALPNBA_League_Pass_Dish" tvg-logo="NBA-LEAGUE-PASS.png" group-title="information",NBA League Pass 1
 http://tvguia.ga/canal.php?u=tvguia&p=ALD8409DKVNFJT&canal=8576

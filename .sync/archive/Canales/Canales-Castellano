@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV Guia_La 1.tutvguia.com" tvg-name="La_1.tutvguia.com" tvg-logo="tve_la1.png",La 1
+rtmp://80.82.78.75/privatestreamplus/la1tdt36 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Antena_3.tutvguia.com" tvg-name="Antena_3.tutvguia.com" tvg-logo="antena3_atresmedia.png",Antena 3
+rtmp://80.82.78.75/privatestreamplus/antena352 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Cuatro.tutvguia.com" tvg-name="Cuatro.tutvguia.com" tvg-logo="cuatro.png",Cuatro
+rtmp://31.220.40.60/privatestream/cuatrotdt9 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Telecinco.tutvguia.com" tvg-name="Telecinco.tutvguia.com" tvg-logo="telecinco.png",Telecinco
+rtmp://31.220.0.206/privatestreamplus/telecincotdt8 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_laSexta.tutvguia.com" tvg-name="laSexta.tutvguia.com" tvg-logo="laSexta_atresmedia.png",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-id="TV Guia_Neox.tutvguia.com" tvg-name="Neox.tutvguia.com" tvg-logo="neox_atresmedia.png",Neox
+rtmp://31.220.0.194/privatestreamplus/neoxtdt63 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Nova.tutvguia.com" tvg-name="Nova.tutvguia.com" tvg-logo="nova.png",Nova
+rtmp://93.174.95.87/privatestream/novatdt36 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_FDF Telecinco.tutvguia.com" tvg-name="FDF_Telecinco.tutvguia.com" tvg-logo="FDF_logo.png",FDF
+rtmp://31.220.2.57/privatestream/fdf954 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Divinity.tutvguia.com" tvg-name="Divinity.tutvguia.com" tvg-logo="divinity.png",Divinity
+rtmp://31.220.0.82/privatestreamplus/divinity85 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Energy.tutvguia.com" tvg-name="Energy.tutvguia.com" tvg-logo="Energy.png",Energy
+rtmp://80.82.64.248/privatestream/energytdt82 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+.tutvguia.com" tvg-name="C+.tutvguia.com" tvg-logo="canalplus.png",Canal +
+rtmp://31.220.0.200/privatestreamplus/plusuno14 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+ Acción.tutvguia.com" tvg-name="C+_Acción.tutvguia.com" tvg-logo="canalplusaccion.png",C+ Acción
+rtmp://31.220.2.57/privatestream/accionplus91 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+ Estrenos.tutvguia.com" tvg-name="C+_Estrenos.tutvguia.com" tvg-logo="canalplusestrenos.png",Canal + Estrenos
+rtmp://31.220.0.134/privatestream/estrenados25 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+ Comedia.tutvguia.com" tvg-name="C+_Comedia.tutvguia.com" tvg-logo="CanalplusComedia.png",Canal + Comedia
+rtmp://31.220.0.196/privatestream/comediaplus78 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+ Xtra.tutvguia.com" tvg-name="C+_Xtra.tutvguia.com" tvg-logo="canalplusxtra.png",Canal + Xtra
+rtmp://31.220.0.200/privatestreamplus/xtraseries25 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+ Series.tutvguia.com" tvg-name="C+_Series.tutvguia.com" tvg-logo="cpseries.png",Canal + Series
+rtmp://93.174.95.87/privatestream/seriesplus256 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Hollywood.tutvguia.com" tvg-name="Hollywood.tutvguia.com" tvg-logo="Canal_Hollywood.png",Canal Hollywood
+rtmp://31.220.0.134/privatestream/hollywood77 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Comedy_Central.tutvguia.com" tvg-name="Comedy_Central.tutvguia.com" tvg-logo="comedycentralhd.png",Comedy Central
+rtmp://31.220.0.201/privatestreamplus/centralcomedy2 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_FOX_ES.tutvguia.com" tvg-name="FOX_ES.tutvguia.com" tvg-logo="fixhd.png",Fox
+rtmp://31.220.40.41/privatestream/fox856 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Los Simpson.tutvguia.com" tvg-name="Los_Simpson.tutvguia.com" tvg-logo="simpson.png",The Simpsons
+rtmp://31.220.0.196/pull/s24h_sp swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="TV Guia_Padre de Familia.tutvguia.com" tvg-name="Padre_de_Familia.tutvguia.com" tvg-logo="familyguy.png",Padre de Familia
+rtmp://31.220.0.196/pull/pf24h_sp swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="TV Guia_DCine Español.tutvguia.com" tvg-name="DCine_Español.tutvguia.com" tvg-logo="DCine_Espanyol.png",Dcine Español
+rtmp://31.220.0.32/privatestream/espadcine7 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Disney_Channel.tutvguia.com" tvg-name="Disney_Channel.tutvguia.com" tvg-logo="disney-channel.png",Disney
+rtmp://31.220.0.82/privatestream/disneyy1 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Disney XD_ES.tutvguia.com" tvg-name="Disney_XD_ES.tutvguia.com" tvg-logo="disney-xd.png",Disney XD
+rtmp://93.174.95.87/privatestream/xddisney8 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Disney Junior.tutvguia.com" tvg-name="Disney_Junior.tutvguia.com" tvg-logo="disney-jr.png",Disney Jr.
+rtmp://31.220.2.54/privatestreamplus/juniordisney3 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Nickelodeon_ES.tutvguia.com" tvg-name="Nickelodeon_ES.tutvguia.com" tvg-logo="nickses.png",Nick
+rtmp://31.220.0.199/privatestreamplus/nickel2 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Clan TVE.tutvguia.com" tvg-name="Clan_TVE.tutvguia.com" tvg-logo="clan.png",Clan
+rtmp://31.220.0.186/privatestreamplus/clantdt29 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Boing.tutvguia.com" tvg-name="Boing.tutvguia.com" tvg-logo="boing.png",Boing
+rtmp://31.220.0.32/privatestream/boingtdt8 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Canal Panda.tutvguia.com" tvg-name="Canal_Panda.tutvguia.com" tvg-logo="panda.png",Panda
+rtmp://80.82.64.248/privatestream/panda15 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Ta Te Ti.tutvguia.com" tvg-name="Ta_Te_Ti.tutvguia.com" tvg-logo="tateti.png",Ta Te Ti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1 tvg-id="TV Guia_Baby TV.tutvguia.com" tvg-name="Baby_TV.tutvguia.com" tvg-logo="Baby-TV.png",Baby TV
+rtmp://31.220.0.186/privatestream/babytv2 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Calle 13.tutvguia.com" tvg-name="Calle_13.tutvguia.com" tvg-logo="calle13.png",Calle 13
+rtmp://31.220.2.56/privatestream/13calle7 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Syfy_ES.tutvguia.com" tvg-name="Syfy_ES.tutvguia.com" tvg-logo="syfy.png",SyFy
+rtmp://31.220.0.139/privatestream/syfy852 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_TNT_ES.tutvguia.com" tvg-name="TNT_ES.tutvguia.com" tvg-logo="tnt.png",TNT
+rtmp://31.220.0.206/privatestreamplus/tnt28 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_TCM_ES.tutvguia.com" tvg-name="TCM_ES.tutvguia.com" tvg-logo="tcm.png",TCM
+rtmp://31.220.2.56/privatestreamplus/tmc54 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_AXN_ES.tutvguia.com" tvg-name="AXN_ES.tutvguia.com" tvg-logo="axn-hd.png",AXN
+rtmp://31.220.0.199/privatestreamplus/axn732 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_AXN White.tutvguia.com" tvg-name="AXN_White.tutvguia.com" tvg-logo="AXN_White.png",AXN White
+rtmp://31.220.0.186/privatestream/whiteaxn7 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_AMC_ES.tutvguia.com" tvg-name="AMC_ES.tutvguia.com" tvg-logo="amc.png",AMC
+rtmp://31.220.40.40/privatestream/amc652 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Fox Life_ES.tutvguia.com" tvg-name="Fox_Life_ES.tutvguia.com" tvg-logo="fox-life.png",Fox Life
+rtmp://31.220.0.196/privatestreamplus/lifefox5 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Non Stop People.tutvguia.com" tvg-name="Non_Stop_People.tutvguia.com" tvg-logo="Non_Stop_People.png",Non Stop People
+rtmp://31.220.0.86/privatestream/nonstop58 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_COSMO.tutvguia.com" tvg-name="COSMO.tutvguia.com" tvg-logo="cosmo.png",Cosmo
+rtmp://31.220.2.56/privatestreamplus/cosmo198 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Sundance Channel_ES.tutvguia.com" tvg-name="Sundance_Channel_ES.tutvguia.com" tvg-logo="Sundance.png",Sundance Channel
+rtmp://31.220.2.50/privatestream/sundance95 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_40 TV_ES.tutvguia.com" tvg-name="40_TV_ES.tutvguia.com" tvg-logo="40tv.png",40 TV
+rtmp://31.220.2.57/privatestreamplus/tv4035 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Sol Musica.tutvguia.com" tvg-name="Sol_Musica.tutvguia.com" tvg-logo="solmusica.png",Sol Música
+rtmp://31.220.0.201/privatestream/musicasol21 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_MTV ESPAÑA.tutvguia.com" tvg-name="MTV_ESPAÑA.tutvguia.com" tvg-logo="mtv.png",MTV España
+rtmp://31.220.2.55/privatestream/mtv96 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Viajar.tutvguia.com" tvg-name="Viajar.tutvguia.com" tvg-logo="viajar.png",Viajar
+rtmp://93.174.95.87/privatestreamplus/viajar357 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Discovery Channel_ES.tutvguia.com" tvg-name="Discovery_Channel_ES.tutvguia.com" tvg-logo="discovery-channel.png",Discovery
+rtmp://31.220.2.51/privatestreamplus/channeldiscovery71 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Discovery MAX.tutvguia.com" tvg-name="Discovery_MAX.tutvguia.com" tvg-logo="discoverymax.png",Discovery Max
+rtmp://31.220.0.13/privatestream/maxdiscovery11 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_National Geographic Wild_ES.tutvguia.com" tvg-name="National_Geographic_Wild_ES.tutvguia.com" tvg-logo="natgeo.png",Nat Geo Wild
+rtmp://31.220.2.54/privatestream/wildnatgeo4 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Historia.tutvguia.com" tvg-name="Historia.tutvguia.com" tvg-logo="historia.png",Historia
+rtmp://31.220.0.196/privatestream/historia93 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Crimen-Investigacion_ES.tutvguia.com" tvg-name="Crimen-Investigacion_ES.tutvguia.com" tvg-logo="ci.png",Crimen & Investigación
+rtmp://31.220.0.103/privatestreamplus/ci34 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_AE_ES.tutvguia.com" tvg-name="AE_ES.tutvguia.com" tvg-logo="a&e.png",A&E
+rtmp://31.220.0.187/privatestream/aande25 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Iberalia.tutvguia.com" tvg-name="Iberalia.tutvguia.com" tvg-logo="iberiala.png",Iberalia
+rtmp://31.220.40.60/privatestream/iberalia65 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Canal Cocina.tutvguia.com" tvg-name="Canal_Cocina.tutvguia.com" tvg-logo="ccocina.png",C. Cocina España
+rtmp://31.220.2.53/privatestreamplus/cocina38 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Decasa.tutvguia.com" tvg-name="Decasa.tutvguia.com" tvg-logo="dcasa.png",De Casa
+rtmp://31.220.0.155/privatestream/decasa12 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Canal+ Liga.tutvguia.com" tvg-name="Canal+_Liga.tutvguia.com" tvg-logo="Canal+Liga.png",Canal + Liga
+rtmp://31.220.0.72/privatestream/ligaapp21 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Canal+ Liga.tutvguia.com" tvg-name="Canal+_Liga.tutvguia.com" tvg-logo="Canal+Liga.png",Canal + Liga
+rtmp://31.220.2.53/privatestream/ligados2 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+ Partidazo.tutvguia.com" tvg-name="C+_Partidazo.tutvguia.com" tvg-logo="cpluspartidazo.png",Canal + Partidazo
+rtmp://31.220.40.40/pull/partdz456 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="TV Guia_C+ Fútbol.tutvguia.com" tvg-name="C+_Fútbol.tutvguia.com" tvg-logo="canal-plus-futbol-logo.png",Canal + Futbol
+rtmp://31.220.0.139/privatestream/futbolplus56 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+ Deportes.tutvguia.com" tvg-name="C+_Deportes.tutvguia.com" tvg-logo="canalplusdeportes.png",Canal + Deportes
+rtmp://31.220.2.50/privatestreamplus/deportesplus695 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+ Deportes 2.tutvguia.com" tvg-name="C+_Deportes_2.tutvguia.com" tvg-logo="canalplusdeportes.png",Canal + Deportes 2
+rtmp://31.220.0.60/privatestreamplus/pdeportes247 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Canal Golf.tutvguia.com" tvg-name="Canal_Golf.tutvguia.com" tvg-logo="canalplusgolf.png",C+ Golf
+rtmp://31.220.0.194/privatestream/golfplus00 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_C+ Toros.tutvguia.com" tvg-name="C+_Toros.tutvguia.com" tvg-logo="canal-toros.png",C+ Toros
+rtmp://31.220.2.57/privatestreamplus/torosplus87 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Movistar Formula1.tutvguia.com" tvg-name="Movistar_Formula1.tutvguia.com" tvg-logo="f1.png",Formula 1
+rtmp://31.220.0.103/privatestream/formulaone1 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_Movistar Moto GP.tutvguia.com" tvg-name="Movistar_Moto_GP.tutvguia.com" tvg-logo="movistargp.png",Moto GP
+rtmp://31.220.40.40/pull/motgepe swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-id="TV Guia_Eurosport.tutvguia.com" tvg-name="Eurosport.tutvguia.com" tvg-logo="eurosport-hd.png",EuroSport
+rtmp://31.220.0.187/privatestreamplus/eurosport145 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+#EXTINF:-1 tvg-id="TV Guia_beIN Sport en Español.tutvguia.com" tvg-name="beIN_Sport_en_Español.tutvguia.com" tvg-logo="beins.png",BeinSports en Español
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/02.m3u8?

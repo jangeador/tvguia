@@ -11,16 +11,7 @@ Una lista de los canales y la guia de IPTV publicados por el Proyecto TV Guia en
 	
 	a. Canales (Lista Original)
 
-		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/Canales
-
-	b. Canales-Castellano (Lista nueva en fase de prueba - espanol solamente)
-
-		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/Canales-Castellano
-
-	c. Canales Todos (Todos los canales con su guia y logos, mas de 500 canales)
-
-		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/TVGuia-Full-Family
-
+		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/Canales-Familiar
 
 2. Usar esta direccion como fuente de la guia
 

@@ -189,7 +189,7 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I610.56222.tutvguia.com" tvg-name="610_FINANCIERO610FINANCIEROEl_Financiero_-_Bloomberg" tvg-logo="bloomberg.png" group-title="Latino",Bloomberg
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="Total-MX_I651.8864.tutvguia.com" tvg-name="651_TVE_I651TVE_ITVE_Internacional_2_(North_&_Central_America)" tvg-logo="tve.png" group-title="Latino",TVE
+#EXTINF:-1 tvg-id="Total-MX_I651.8864.tutvguia.com" tvg-name="651_TVEAME2651TVEAME2TVE_Internacional_2_(North_&_Central_America)" tvg-logo="tve.png" group-title="Latino",TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I701.29083.tutvguia.com" tvg-name="701_MTVLIVHD701MTVLIVHDMTV_Live_(MTVNHD_European_for_US_Lineups)" tvg-logo="mtv-live-hd.png" group-title="Latino",MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -209,15 +209,15 @@ http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="Total-MX_I732.23363.tutvguia.com" tvg-name="732_BANDMX732BANDMXBandamax_(Mexico)" tvg-logo="bandamax.png" group-title="Latino",Bandamax
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="TV Guia_Nuevo Tiempo.tutvguia.com" tvg-name="Nuevo_Tiempo.tutvguia.com" tvg-logo="nuevo-tiempo.png" group-title="Religion",Nuevo Tiempo
+#EXTINF:-1 tvg-id="TV Guia_Nuevo Tiempo.tutvguia.com" tvg-name="Nuevo_Tiempo.tutvguia.com" tvg-logo="nuevo-tiempo.png" group-title="Religión",Nuevo Tiempo
 http://stream.novotempo.com:1935/tv/smil:tvnuevotiempo.smil/master.m3u8
-#EXTINF:-1 tvg-id="TV Guia_3ABN Latino.tutvguia.com" tvg-name="3ABN_Latino.tutvguia.com" tvg-logo="3abn_Latino.png" group-title="Religion",3ABN Latino
+#EXTINF:-1 tvg-id="TV Guia_3ABN Latino.tutvguia.com" tvg-name="3ABN_Latino.tutvguia.com" tvg-logo="3abn_Latino.png" group-title="Religión",3ABN Latino
 rtmp://streamer1.streamhost.org/salive playpath=GMIredadvenirh swfUrl=http://missionslibrary.com/player/flashplayer/player.swf live=1 pageUrl=http://redadvenir.org/zstream/redadvenir.php?tvsize=2
-#EXTINF:-1 tvg-id="TV Guia_LLBN Latino.tutvguia.com" tvg-name="LLBN_Latino.tutvguia.com" tvg-logo="LLBN-Latino.png" group-title="Religion",LLBN Latino
+#EXTINF:-1 tvg-id="TV Guia_LLBN Latino.tutvguia.com" tvg-name="LLBN_Latino.tutvguia.com" tvg-logo="LLBN-Latino.png" group-title="Religión",LLBN Latino
 rtmp://cp45648.live.edgefcs.net/live playpath=T01587-latino@94847 swfUrl=http://vp.telvue.com/extra/jwplayer.swf live=1 pageUrl=http://vp.telvue.com/player?id=T01587&video=140436&mini=true
-#EXTINF:-1 tvg-id="TV Guia_Alfa TV.tutvguia.com" tvg-name="Alfa_TV.tutvguia.com" tvg-logo="alfa.png" group-title="Religion",Alfa Television
+#EXTINF:-1 tvg-id="TV Guia_Alfa TV.tutvguia.com" tvg-name="Alfa_TV.tutvguia.com" tvg-logo="alfa.png" group-title="Religión",Alfa Television
 rtmp://streamer1.streamhost.org/salive playpath=GMIalfah swfUrl=http://missionslibrary.com/player/flashplayer/player.swf live=1 pageUrl=http://www.alfatelevision.org/update/archivos/player/adaptive_streaming_NORMAL_manual.html
-#EXTINF:-1 tvg-id="TV Guia_Aliento Vision.tutvguia.com" tvg-name="Aliento_Vision.tutvguia.com" tvg-logo="Aliento.png" group-title="Religion",Aliento Visión
+#EXTINF:-1 tvg-id="TV Guia_Aliento Vision.tutvguia.com" tvg-name="Aliento_Vision.tutvguia.com" tvg-logo="Aliento.png" group-title="Religión",Aliento Visión
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV Guia_La 1.tutvguia.com" tvg-name="La_1.tutvguia.com" tvg-logo="tve_la1.png" group-title="Castellano",La 1
 rtmp://80.82.78.75/privatestreamplus/la1tdt36 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf

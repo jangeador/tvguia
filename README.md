@@ -11,7 +11,7 @@ Una lista de los canales y la guia de IPTV publicados por el Proyecto TV Guia en
 	
 	a. Canales (Lista Original)
 
-		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/Canales-Familiar
+		https://cdn.rawgit.com/jangeador/tvguia/master/Canales/Canales
 
 2. Usar esta direccion como fuente de la guia
 
